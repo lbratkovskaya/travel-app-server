@@ -13,7 +13,7 @@
     "lint": "tslint --fix -c tslint.json -t stylish -p ./tsconfig.json",
     "dev:clean": "rimraf build",
     "dev:build": "tsc --incremental -p tsconfig.json",
-    "dev:start": "cross-env MONGO_URL=mongodb://localuser:qwerty123@127.0.0.1/local-travel-app-db node --inspect -r source-map-support/register -r dotenv/config build/index.js"
+    "dev:start": "cross-env MONGO_URL=mongodb+srv://devuser:qwerty123@cluster0.n3gup.mongodb.net/travel-app-db node --inspect -r source-map-support/register -r dotenv/config build/index.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",

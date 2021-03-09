@@ -14,7 +14,7 @@ export const SightSchema: Schema = new Schema({
   countryID: { type: String, required: true },
   titleEN: { type: String, required: true, unique: true },
   titleRU: { type: String, required: true, unique: true },
-  titleDE: { type: String, required: true, unique: true },
+  titleDE: { type: String, required: true },
   infoEN: { type: String, required: true },
   infoRU: { type: String, required: true },
   infoDE: { type: String, required: true },

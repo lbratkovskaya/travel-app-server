@@ -13,9 +13,7 @@ sightsRouter.options(
 sightsRouter.get(
   '/',
   async (req: express.Request, res: express.Response, next: express.NextFunction) => {
-    const { _id } = req.query;
-    const filter = _id ? { _id } : {}
-    const sights = await Sights.find(filter)
+    const sights = await Sights.find({})
     res.json(sights)
   }
 )
