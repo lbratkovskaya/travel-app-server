@@ -7,9 +7,10 @@ authRouter.post(
   '/register',
   async (req: express.Request, res: express.Response, next: express.NextFunction) => {
     const user = req.body.user
+    const email = req.body.email
     const password = req.body.password
 
-    if (user === undefined || password === undefined || user === '' || password === '') {
+    if (!user || !email || !password) {
       res.status(404)
       res.json({ result: `Wrong request. Can't parse user and password from payload` })
     } else {
@@ -17,6 +18,7 @@ authRouter.post(
       if (foundUsers.length === 0) {
         Users.insertMany({
           username: user,
+          email: email,
           password: password,
           image: req.body.image,
         })
@@ -34,6 +36,7 @@ authRouter.post(
   '/login',
   async (req: express.Request, res: express.Response, next: express.NextFunction) => {
     const user = req.body.user
+    const email = req.body.email
     const password = req.body.password
 
     if (user === undefined || password === undefined) {
@@ -42,6 +45,7 @@ authRouter.post(
     } else {
       const foundUsers: Array<IUser> = await Users.find({
         username: user,
+        email: email,
         password: password,
       })
       if (foundUsers.length === 0) {
