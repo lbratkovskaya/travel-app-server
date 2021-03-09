@@ -1,5 +1,7 @@
 import express from 'express'
 import { authRouter } from './auth'
+import { countriesRouter } from './countries'
+import { sightsRouter } from './sights'
 
 export interface IRoute {
   endpoint: string
@@ -14,4 +16,6 @@ root.get('/', async (req: express.Request, res: express.Response, next: express.
 export const routes: Array<IRoute> = [
   { endpoint: '/', router: root },
   { endpoint: '/auth', router: authRouter },
+  { endpoint: '/countries', router: countriesRouter },
+  { endpoint: '/sights', router: sightsRouter },
 ]
