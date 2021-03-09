@@ -33,6 +33,7 @@ async function start() {
     })
   } catch (e) {
     console.log(e)
+    process.exit(1)
   }
 }
 
