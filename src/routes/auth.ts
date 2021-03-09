@@ -36,7 +36,6 @@ authRouter.post(
   '/login',
   async (req: express.Request, res: express.Response, next: express.NextFunction) => {
     const user = req.body.user
-    const email = req.body.email
     const password = req.body.password
 
     if (user === undefined || password === undefined) {
@@ -45,7 +44,6 @@ authRouter.post(
     } else {
       const foundUsers: Array<IUser> = await Users.find({
         username: user,
-        email: email,
         password: password,
       })
       if (foundUsers.length === 0) {
