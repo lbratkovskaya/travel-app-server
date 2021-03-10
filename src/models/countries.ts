@@ -9,6 +9,7 @@ interface ISight extends Document {
   infoDE: string
   pictureURL: string
 }
+
 export interface ICountry extends Document {
   id: string
   nameEN: string
@@ -31,7 +32,7 @@ export const CountrySchema: Schema = new Schema({
   id: { type: String, required: true, unique: true },
   nameEN: { type: String, required: true, unique: true },
   nameRU: { type: String, required: true, unique: true },
-  nameDE: { type: String, required: true },
+  nameDE: { type: String, required: true, unique: true },
   capitalEN: { type: String, required: true, unique: true },
   capitalRU: { type: String, required: true, unique: true },
   capitalDE: { type: String, required: true, unique: true },
