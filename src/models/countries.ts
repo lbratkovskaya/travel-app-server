@@ -1,5 +1,14 @@
 import mongoose, { Schema, Document } from 'mongoose'
 
+interface ISight extends Document {
+  titleEN: string
+  titleRU: string
+  titleDE: string
+  infoEN: string
+  infoRU: string
+  infoDE: string
+  pictureURL: string
+}
 export interface ICountry extends Document {
   id: string
   nameEN: string
@@ -15,6 +24,7 @@ export interface ICountry extends Document {
   currency: string
   pictureURL: string
   videoURL: string
+  sights: ISight[]
 }
 
 export const CountrySchema: Schema = new Schema({
@@ -30,8 +40,9 @@ export const CountrySchema: Schema = new Schema({
   infoRU: { type: String, required: true },
   infoDE: { type: String, required: true },
   currency: { type: String, required: true },
-  pictureURL: { type: String, required: true, unique: true },
-  videoURL: { type: String, required: true, unique: true },
+  pictureURL: { type: String, required: true },
+  videoURL: { type: String, required: true },
+  sights: { type: Array, required: true },
 })
 
 export const Countries = mongoose.model<ICountry>('Countries', CountrySchema);
