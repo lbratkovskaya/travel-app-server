@@ -1,31 +1,31 @@
 import mongoose, { Schema, Document } from 'mongoose'
 
 interface ISight extends Document {
-  titleEN: string
-  titleRU: string
-  titleDE: string
-  infoEN: string
-  infoRU: string
-  infoDE: string
-  pictureURL: string
+  titleEN: string,
+  titleRU: string,
+  titleDE: string,
+  infoEN: string,
+  infoRU: string,
+  infoDE: string,
+  pictureURL: string,
 }
 
 export interface ICountry extends Document {
-  id: string
-  nameEN: string
-  nameRU: string
-  nameDE: string
-  capitalEN: string
-  capitalRU: string
-  capitalDE: string
-  capitalLatLng: [Number, Number]
-  infoEN: string
-  infoRU: string
-  infoDE: string
-  currency: string
-  pictureURL: string
-  videoURL: string
-  sights: ISight[]
+  id: string,
+  nameEN: string,
+  nameRU: string,
+  nameDE: string,
+  capitalEN: string,
+  capitalRU: string,
+  capitalDE: string,
+  capitalLatLng: [Number, Number],
+  infoEN: string,
+  infoRU: string,
+  infoDE: string,
+  currency: string,
+  pictureURL: string,
+  videoURL: string,
+  sights: ISight[],
 }
 
 export const CountrySchema: Schema = new Schema({
