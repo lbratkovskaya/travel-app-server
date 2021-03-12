@@ -1,0 +1,213 @@
+[{
+  "_id": {
+    "$oid": "604868453a0d7e0b68628914"
+  },
+  "capitalLatLng": [
+    35.683333,
+    139.766667
+  ],
+  "id": "jp",
+  "nameEN": "Japan",
+  "nameRU": "Япония",
+  "nameDE": "Japanisch",
+  "capitalEN": "Tokyo",
+  "capitalRU": "Токио",
+  "capitalDE": "Tokio",
+  "infoEN": "",
+  "infoRU": "",
+  "infoDE": "",
+  "currency": "JPY",
+  "pictureURL": "https://i-fakt.ru/1/tokio.jpg",
+  "videoURL": "https://www.youtube.com/watch?v=F0AT_7uVbeo",
+  "sigths": [
+    {
+      "titleEn": "Mount Fuji",
+      "titleRU": "Гора Фудзияма",
+      "titleDE": "Mount Fuji",
+      "infoEN": "",
+      "infoRU": "",
+      "infoDE": "",
+      "pictureURL": ""
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6048798dfa26362230f9d9ad"
+  },
+  "capitalLatLng": [
+    -15.793889,
+    -47.882778
+  ],
+  "id": "br",
+  "nameEN": "Brazil",
+  "nameRU": "Бразилия",
+  "nameDE": "Brasilien",
+  "capitalEN": "Brasília",
+  "capitalRU": "Бразилиа",
+  "capitalDE": "Brasília",
+  "infoEN": "",
+  "infoRU": "",
+  "infoDE": "",
+  "currency": "BRL",
+  "pictureURL": " https://i-fakt.ru/wp-content/uploads/2013/11/braz.jpg",
+  "videoURL": "https://www.youtube.com/watch?v=q7zdJ-nMrlE ",
+  "sights": [
+    {}
+  ]
+},{
+  "_id": {
+    "$oid": "6048a340fa26362230f9d9bb"
+  },
+  "capitalLatLng": [
+    -6.173056,
+    35.741944
+  ],
+  "id": "tz",
+  "nameEN": "Tanzania",
+  "nameRU": "Танзация",
+  "nameDE": "Tansania",
+  "capitalEN": "Dodoma",
+  "capitalRU": "Додома",
+  "capitalDE": "Dodoma",
+  "infoEN": "",
+  "infoRU": "",
+  "infoDE": "",
+  "currency": "TZS",
+  "pictureURL": "  https://i-fakt.ru/wp-content/uploads/2021/03/interesnye-fakty-1614802526.jpg",
+  "videoURL": "https://www.youtube.com/watch?v=UyC2c3j0UqE",
+  "sights": [
+    {
+      "titleEN": ""
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "604b4403267aea4ef48c2176"
+  },
+  "capitalLatLng": [
+    45.424722,
+    -75.695
+  ],
+  "id": "ca",
+  "nameEN": "Canada",
+  "nameRU": "Канада",
+  "nameDE": "Kanada",
+  "capitalEN": "Ottawa",
+  "capitalRU": "Оттава",
+  "capitalDE": "Ottawa",
+  "infoEN": "",
+  "infoRU": "",
+  "infoDE": "",
+  "currency": "CAD",
+  "pictureURL": "https://i-fakt.ru/wp-content/uploads/2019/12/fakty-monreal.jpg",
+  "videoURL": "https://www.youtube.com/watch?v=BHdIQy00_p4",
+  "sights": [
+    {
+      "titleEN": "   "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "604b4521267aea4ef48c2177"
+  },
+  "capitalLatLng": [
+    28.613895,
+    77.209006
+  ],
+  "id": "in",
+  "nameEN": "India",
+  "nameRU": "Индия",
+  "nameDE": "Indien",
+  "capitalEN": "New Delhi",
+  "capitalRU": "Нью-Дели",
+  "capitalDE": "Neu-Delhi",
+  "infoEN": "",
+  "infoRU": "",
+  "infoDE": "",
+  "currency": "INR",
+  "pictureURL": "https://i-fakt.ru/wp-content/uploads/2019/10/fakty-india.jpg",
+  "videoURL": "https://www.youtube.com/watch?v=IgAnj6r1O48",
+  "sights": [
+    {
+      "titleEN": "    "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "604b473d267aea4ef48c2178"
+  },
+  "capitalLatLng": [
+    40.416667,
+    -3.716667
+  ],
+  "id": "sp",
+  "nameEN": "Spain",
+  "nameRU": "Испания",
+  "nameDE": "Spanien",
+  "capitalEN": "Madrid",
+  "capitalRU": "Мадрид",
+  "capitalDE": "Madrid",
+  "infoEN": "",
+  "infoRU": "",
+  "infoDE": "",
+  "currency": "EUR",
+  "pictureURL": "https://i-fakt.ru/wp-content/uploads/2019/12/fakty-barselona.jpg",
+  "videoURL": "https://www.youtube.com/watch?v=L5JORXmV_A0",
+  "sights": [
+    {
+      "titleEN": "     "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "604b4962267aea4ef48c217a"
+  },
+  "capitalLatLng": [
+    24.466667,
+    54.366667
+  ],
+  "id": "ae",
+  "nameEN": "United Arab Emirates",
+  "nameRU": "Объединённые Арабские Эмираты",
+  "nameDE": "Vereinigte Arabische Emirate",
+  "capitalEN": "Abu Dhabi",
+  "capitalRU": "Абу-Даби",
+  "capitalDE": "Abu Dhabi",
+  "infoEN": "",
+  "infoRU": "",
+  "infoDE": "",
+  "currency": "AED",
+  "pictureURL": "https://i-fakt.ru/wp-content/uploads/2015/04/oaemirat.jpg",
+  "videoURL": "https://www.youtube.com/watch?v=jj7hZWUgTd8",
+  "sights": [
+    {
+      "titleEN": "x"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "604b4a45267aea4ef48c217b"
+  },
+  "capitalLatLng": [
+    -41.288889,
+    174.777222
+  ],
+  "id": "nz",
+  "nameEN": "New Zealand",
+  "nameRU": "Новая Зеландия",
+  "nameDE": "Neuseeland",
+  "capitalEN": "Wellington",
+  "capitalRU": "Веллингтон",
+  "capitalDE": "Wellington",
+  "infoEN": "",
+  "infoRU": "",
+  "infoDE": "",
+  "currency": "NZD",
+  "pictureURL": "https://i-fakt.ru/wp-content/uploads/2013/07/skytower3.jpeg",
+  "videoURL": "https://www.youtube.com/watch?v=EdKDIph5IaM",
+  "sights": [
+    {
+      "titleEN": "xx"
+    }
+  ]
+}]
