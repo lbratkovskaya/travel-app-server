@@ -1,15 +1,15 @@
 import mongoose, { Schema, Document } from 'mongoose';
 
 interface ISight extends Document {
-  titleEN: string,
-  titleRU: string,
-  titleDE: string,
-  infoEN: string,
-  infoRU: string,
-  infoDE: string,
-  pictureURL: string,
-  rate: number,
-  countryId: string
+  titleEN: string;
+  titleRU: string;
+  titleDE: string;
+  infoEN: string;
+  infoRU: string;
+  infoDE: string;
+  pictureURL: string;
+  rate: number;
+  countryId: string;
 }
 
 export const SightSchema: Schema = new Schema({
@@ -22,6 +22,6 @@ export const SightSchema: Schema = new Schema({
   infoDE: { type: String, required: true },
   pictureURL: { type: String, required: true },
   rate: { type: Number, required: true },
-})
+});
 
-export const Sights = mongoose.model<ISight>('Sights', SightSchema)
+export const Sights = mongoose.model<ISight>('Sights', SightSchema);
