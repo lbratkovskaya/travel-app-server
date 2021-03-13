@@ -26,6 +26,7 @@ export interface ICountry extends Document {
   pictureURL: string,
   videoURL: string,
   sights: ISight[],
+  capitalTimeZone: string,
 }
 
 export const CountrySchema: Schema = new Schema({
@@ -44,6 +45,7 @@ export const CountrySchema: Schema = new Schema({
   pictureURL: { type: String, required: true },
   videoURL: { type: String, required: true },
   sights: { type: Array, required: true },
+  capitalTimeZone: {type: String, required: true},
 })
 
 export const Countries = mongoose.model<ICountry>('Countries', CountrySchema);
