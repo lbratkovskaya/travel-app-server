@@ -1,32 +1,21 @@
-import mongoose, { Schema, Document } from 'mongoose'
-
-interface ISight extends Document {
-  titleEN: string,
-  titleRU: string,
-  titleDE: string,
-  infoEN: string,
-  infoRU: string,
-  infoDE: string,
-  pictureURL: string,
-}
+import mongoose, { Schema, Document } from 'mongoose';
 
 export interface ICountry extends Document {
-  id: string,
-  nameEN: string,
-  nameRU: string,
-  nameDE: string,
-  capitalEN: string,
-  capitalRU: string,
-  capitalDE: string,
-  capitalLatLng: [Number, Number],
-  infoEN: string,
-  infoRU: string,
-  infoDE: string,
-  currency: string,
-  pictureURL: string,
-  videoURL: string,
-  sights: ISight[],
-  capitalTimeZone: string,
+  id: string;
+  nameEN: string;
+  nameRU: string;
+  nameDE: string;
+  capitalEN: string;
+  capitalRU: string;
+  capitalDE: string;
+  capitalLatLng: [Number, Number];
+  infoEN: string;
+  infoRU: string;
+  infoDE: string;
+  currency: string;
+  pictureURL: string;
+  videoURL: string;
+  capitalTimeZone: string;
 }
 
 export const CountrySchema: Schema = new Schema({
@@ -44,8 +33,7 @@ export const CountrySchema: Schema = new Schema({
   currency: { type: String, required: true },
   pictureURL: { type: String, required: true },
   videoURL: { type: String, required: true },
-  sights: { type: Array, required: true },
-  capitalTimeZone: {type: String, required: true},
-})
+  capitalTimeZone: { type: String, required: true },
+});
 
 export const Countries = mongoose.model<ICountry>('Countries', CountrySchema);
