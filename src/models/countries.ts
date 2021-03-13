@@ -1,4 +1,4 @@
-import mongoose, { Schema, Document } from 'mongoose'
+import mongoose, { Schema, Document } from 'mongoose';
 
 export interface ICountry extends Document {
   id: string,
@@ -36,4 +36,4 @@ export const CountrySchema: Schema = new Schema({
   capitalTimeZone: {type: String, required: true},
 })
 
-export const Countries = mongoose.model<ICountry>('Countries', CountrySchema);
+export const Countries = mongoose.model<ICountry>('Countries', CountrySchema)

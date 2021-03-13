@@ -1,5 +1,5 @@
-import express from 'express'
-import { IUser, Users } from '../models/users'
+import express from 'express';
+import { IUser, Users } from '../models/users';
 
 export const authRouter: express.Router = express.Router()
 

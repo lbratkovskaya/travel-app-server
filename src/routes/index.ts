@@ -1,8 +1,8 @@
-import express from 'express'
-import { authRouter } from './auth'
-import { countriesRouter } from './countries'
-import { sightsRouter } from './sights'
-import { reviewsRouter } from './reviews'
+import express from 'express';
+import { authRouter } from './auth';
+import { countriesRouter } from './countries';
+import { sightsRouter } from './sights';
+import { reviewsRouter } from './reviews';
 
 export interface IRoute {
   endpoint: string,

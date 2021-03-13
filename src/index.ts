@@ -1,9 +1,9 @@
-import express from 'express'
-import cors from 'cors'
-import mongoose from 'mongoose'
-import 'dotenv-defaults/config'
-import bodyParser from 'body-parser'
-import { routes, IRoute } from './routes'
+import express from 'express';
+import cors from 'cors';
+import mongoose from 'mongoose';
+import 'dotenv-defaults/config';
+import bodyParser from 'body-parser';
+import { routes, IRoute } from './routes';
 
 const appPort = process.env.PORT
 const mongoUrl = process.env.MONGO_URL ? process.env.MONGO_URL : 'mongo://localhost:27017/test'
