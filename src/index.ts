@@ -21,7 +21,6 @@ routes.forEach((route: IRoute) => {
   app.use(route.endpoint, route.router);
 });
 
-app.use('/getsome', (req, res) => {});
 async function start() {
   try {
     await mongoose.connect(mongoUrl, {

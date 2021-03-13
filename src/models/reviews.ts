@@ -4,7 +4,7 @@ export interface IReview extends Document {
   user: string;
   rate: number;
   sightId: string;
-  review: string;
+  review?: string;
 }
 
 export const ReviewsSchema: Schema = new Schema({

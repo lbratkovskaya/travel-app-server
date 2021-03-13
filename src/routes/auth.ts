@@ -15,7 +15,7 @@ authRouter.post(
       res.json({ result: `Wrong request. Can't parse user and password from payload` });
     } else {
       const foundUsers: Array<IUser> = await Users.find({ username: user });
-      if (foundUsers.length === 0) {
+      if (!foundUsers.length) {
         Users.insertMany({
           username: user,
           email: email,
@@ -38,7 +38,7 @@ authRouter.post(
     const user = req.body.user;
     const password = req.body.password;
 
-    if (user === undefined || password === undefined) {
+    if (!user || !password) {
       res.status(404);
       res.json({ result: `Wrong request. Can't parse user and password from payload` });
     } else {

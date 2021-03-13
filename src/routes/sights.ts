@@ -10,7 +10,7 @@ sightsRouter.get(
     if (req.query.countryId) {
       filter = { countryId: req.query.countryId };
     }
-    const sights = await Sights.find(filter, { _id: 0 });
+    const sights = await Sights.find(filter);
     res.json(sights);
   },
 );
