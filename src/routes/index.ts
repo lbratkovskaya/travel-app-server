@@ -3,6 +3,7 @@ import { authRouter } from './auth';
 import { countriesRouter } from './countries';
 import { sightsRouter } from './sights';
 import { reviewsRouter } from './reviews';
+import { proxyRouter } from './proxy';
 
 export interface IRoute {
   endpoint: string;
@@ -20,4 +21,5 @@ export const routes: Array<IRoute> = [
   { endpoint: '/countries', router: countriesRouter },
   { endpoint: '/sights', router: sightsRouter },
   { endpoint: '/reviews', router: reviewsRouter },
+  { endpoint: '/currencies', router: proxyRouter },
 ];
