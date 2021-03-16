@@ -17,4 +17,3 @@ function rateCounter(sightId: string) {
 }
 
 export default rateCounter;
-

@@ -37,6 +37,8 @@ reviewsRouter.post(
           user: user,
           sightId: sightId,
           rate: +rate,
+        }).then(() => {
+          rateCounter(sightId);
         });
       } else {
         Reviews.findOneAndUpdate(
@@ -45,10 +47,10 @@ reviewsRouter.post(
             rate: +rate,
           },
           {},
-          () => {
-            rateCounter(sightId);
-          },
-        );
+          () => {},
+        ).then(() => {
+          rateCounter(sightId);
+        });
       }
       res.status(200);
       res.json({ result: 'Rate was updated' });
@@ -76,25 +78,26 @@ reviewsRouter.post(
       };
       const reviews: Array<IReview> = await Reviews.find(filter);
       if (!reviews.length) {
-        Reviews.insertMany({
+        await Reviews.insertMany({
           user: user,
           sightId: sightId,
           rate: +rate,
           review: review,
+        }).then(() => {
+          rateCounter(sightId);
         });
       } else {
-        console.log('updating');
-        Reviews.findOneAndUpdate(
+        await Reviews.findOneAndUpdate(
           filter,
           {
             rate: +rate,
             review: review,
           },
           {},
-          () => {
-            rateCounter(sightId);
-          },
-        );
+          () => {},
+        ).then(() => {
+          rateCounter(sightId);
+        });
       }
       res.status(200);
       res.json({ result: 'Review was updated' });

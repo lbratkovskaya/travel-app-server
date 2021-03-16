@@ -9,6 +9,8 @@ sightsRouter.get(
     let filter = {};
     if (req.query.countryId) {
       filter = { countryId: req.query.countryId };
+    } else if (req.query.sightId) {
+      filter = { _id: req.query.sightId };
     }
     const sights = await Sights.find(filter);
     res.json(sights);
