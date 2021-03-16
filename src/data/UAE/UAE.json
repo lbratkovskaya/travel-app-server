@@ -1,0 +1,74 @@
+[
+    {
+        titleEN: "Sharjah Al Hish Fort.",
+        titleRU: "Форт Шарджи Аль-Хиш",
+        titleDE: "Festung Sharjah Al Hish",
+        infoEN: "It is a two-storey traditional-looking fort built of stone, coral, and adobe. It stands in the center of the city of Sharjah. The original structure was built in 1820 by the then Ruler, Sheikh Sultan Bin Saqr Al Qasimi. The fortification was partially demolished in the early 1970s and the only tower that remains today is a reminder of its former greatness. This same tower (on the right side of the fort when facing the entrance) is what gave the square its name: Al Burj, which means “tower” in Arabic.",
+        infoRU: "Это двухэтажное традиционного вида укрепление, построенное из камня, кораллов и самана. Оно стоит в самом центре города Шарджа. Первоначальная конструкция была возведена в 1820 г. тогдашним правителем, шейхом Султаном бин Сакр Аль-Казими. Укрепление было частично разобрано в начале 1970-х гг., и единственная оставшаяся башня сегодня напоминает о былом его величии. Эта же башня (она находится в правой части форта, если стоять лицом ко входу) дала имя площади, на которой она находится — Аль-Бурж, что по-арабски и означает «башня».",
+        infoDE: "Dieses traditionell aussehende zweistöckige Fort ist aus Stein, Korallen und Lehm gebaut. Es steht im Stadtzentrum von Sharjah. Das ursprüngliche Gebäude wurde 1820 vom derzeitigen Gouverneur, Scheich Sultan Bin Saqr Al Qasimi, erbaut. Der Wall wurde Anfang der 1970er Jahre teilweise abgetragen und der einzig verbliebene Turm erinnert heute an seine einstige Größe. Dieser Turm (auf der rechten Seite des Forts, wenn man auf den Eingang blickt) ist es, der dem Platz seinen Namen gab: Al Burj, was auf Arabisch “Turm” bedeutet.",
+        pictureURL: "./fort_shardzhi_al_hish.jpeg"
+    },
+    {
+        titleEN: "Sir Bani Yas",
+        titleRU: "Сир-Бани-Яс",
+        titleDE: "Sir Bani Yas",
+        infoEN: "Relatively recently, Sir Bani Yas Island was a desert without water, vegetation or animals. The first president of the UAE, Sheikh Zayed Al Nahyan, found the place pretty and decided to build a nature reserve there. Soon more than 8 million trees were planted on the desert island, including fruit trees, rare animals and birds were brought in, and hotels and restaurants were built for people. The lifeless place was transformed into an oasis in a matter of years.",
+        infoRU: "Сравнительно недавно остров Сир Бани-Яс был пустыней без воды, растительности и животных. Первому президенту ОАЭ, шейху Зайиду Аль Нахьяну это место показалось симпатичным, и он решил построить там заповедник. Вскоре на пустынном острове было высажено более 8 млн деревьев, в том числе, фруктовых, завезены редкие животные и птицы, а для людей построены отели и рестораны. Безжизненное место в считанные годы превратилось в настоящий оазис.",
+        infoDE: "Noch vor relativ kurzer Zeit war die Insel Sir Bani Yas eine Wüste ohne Wasser, Vegetation oder Tiere. Der erste Präsident der VAE, Sheikh Zayed Al Nahyan, fand den Ort attraktiv und beschloss, dort ein Reservat zu errichten. Bald wurden mehr als 8 Millionen Bäume auf der einsamen Insel gepflanzt, darunter auch Obstbäume, seltene Tiere und Vögel wurden dorthin gebracht, und es wurden Hotels und Restaurants für die Menschen gebaut. Innerhalb weniger Jahre hat sich ein lebloser Ort in eine Oase verwandelt.",
+        pictureURL: "./si_buny.jpeg"
+    },
+    {
+        titleEN: "Ferrari World amusement park",
+        titleRU: "Развлекательный парк Ferrari World",
+        titleDE: "Themenpark Ferrari World",
+        infoEN: "Ferrari World Complex, or as it is called, “Ferrari World” near the capital of the Emirates is the largest theme park in the world. The institution was opened in 2010, and today it is the only leisure park in the history of the famous Italian automobile corporation. One of its unique features is a solid streamlined red roof covering more than 200,000 square meters. ",
+        infoRU: "Комплекс Ferrari World или, как его еще называют, «Мир Феррари» неподалеку от столицы Эмиратов представляет собой крупнейший в мире тематический экскурсионно-развлекательный павильон. Заведение было открыто в 2010 г., и на сегодняшний день это единственный в истории знаменитой итальянской автомобильной корпорации парк отдыха. Одна из его уникальных черт — сплошная обтекаемая крыша красного цвета площадью более 200 тыс. кв. м. ",
+        infoDE: "Der Komplex Ferrari World” in der Nähe der Hauptstadt der Emirate ist der größte Themenpark der Welt. Die Einrichtung wurde im Jahr 2010 eröffnet und ist bis heute der einzige Freizeitpark in der Geschichte des berühmten italienischen Automobilkonzerns. Eines seiner einzigartigen Merkmale ist das rote Dach, das eine Gesamtfläche von mehr als 200 Tausend Quadratmetern hat. ",
+        pictureURL: "./ferrari_world.jpeg"
+    },
+    {
+        titleEN: "Sheikh Zayd Mosque",
+        titleRU: "Мечеть шейха Зайда",
+        titleDE: "Sheikh Zayed Moschee",
+        infoEN: "Sheikh Zayd Mosque - the embodiment of the great wealth of the Emirates, a symbol of Muslim faith and a true illustration of the book “One Thousand and One Nights”. The monument, covering an area of five soccer fields, with walls inlaid with precious stones and gold, is dedicated to Sheikh Zayd ibn Sultan Al Nahyan, the great man who united poor Bedouin lands into one country, which became the richest on the planet. The unprecedented construction costing more than 500 million USD is popular with residents of the country and travelers from around the world.",
+        infoRU: "Мечеть шейха Зайда — олицетворение великих богатств Эмиратов, символ веры мусульман и настоящая иллюстрация книги «Тысяча и одна ночь». Этот монумент площадью в 5 футбольных полей со стенами, инкрустированными самоцветами и золотом, посвящен великому человеку, объединившему бедные земли бедуинов в одну страну, ставшую самой богатой на планете, — шейху Зайду ибн Султану Аль Нахайяну. Небывалая постройка стоимостью более 500 млн USD популярна среди жителей страны и путешественников со всего мира.",
+        infoDE: "Scheich Zayd Moschee - die Verkörperung der großen Reichtümer der Emirate, ein Symbol des muslimischen Glaubens und eine wahre Illustration des Buches “Tausend und eine Nacht”. Das Denkmal mit einer Fläche von 5 Fußballfeldern, dessen Wände mit Halbedelsteinen und Gold eingelegt sind, ist Scheich Zayd ibn Sultan Al Nahyan gewidmet, dem großen Mann, der die armen Beduinen zu einem Land vereinte, das zum reichsten der Welt wurde. Der beispiellose Bau, der mehr als 500 Millionen USD gekostet hat, ist bei Anwohnern und Reisenden aus der ganzen Welt beliebt.",
+        pictureURL: "./sheih.jpeg"
+    },
+    {
+        titleEN: "Jumeirah Mosque",
+        titleRU: "Мечеть Джумейра",
+        titleDE: "Jumeirah-Moschee",
+        infoEN: "Dubai is famous for its many mosques, among which the Jumeirah Mosque - the largest religious building in the country and a beautiful example of Arabian religious architecture, generously decorated with calligraphic script - is especially interesting. It is one of the few mosques in the Emirate open to non-Muslims, thanks in large part to the Center for Intercultural Communication, located here, under the patronage of Sheikh Mohammed.",
+        infoRU: "Дубай славится множеством мечетей, среди которых особенно интересна мечеть Джумейра — крупнейшее в стране сооружение культа, прекрасный образец арабской религиозной архитектуры, щедро украшенный каллиграфическим письмом. Это одна из немногих эмиратских мечетей, открытая для посещения немусульманами, во многом благодаря расположенному здесь же Центру межкультурной коммуникации под патронажем шейха Мохаммеда.",
+        infoDE: "Dubai ist berühmt für eine große Anzahl von Moscheen, von denen die interessanteste die Jumeirah-Moschee ist - das größte religiöse Gebäude des Landes und ein wunderbares Beispiel arabischer religiöser Architektur, großzügig verziert mit kalligraphischer Schrift. Sie ist eine der wenigen Moscheen im Emirat, die auch Nicht-Muslimen offensteht, nicht zuletzt dank des Zentrums für interkulturelle Kommunikation, das hier seinen Sitz hat und von Scheich Mohamed geleitet wird.",
+        pictureURL: "./djumeira.jpeg"
+    },
+    {
+        titleEN: "Burj Khalifa",
+        titleRU: "Бурдж-Халифа",
+        titleDE: "Burj Khalifa",
+        infoEN: "The Burj Khalifa is the tallest building in the world! The height of the skyscraper, located in Dubai, is 828 meters, that is 163 floors. Its shape resembles a stalagmite. The opening ceremony was held on January 4, 2010.",
+        infoRU: "Бурдж-Халифа — самое высокое здание в мире! Высота небоскреба, расположенного в Дубае, — 828 метров, это 163 этажа. Его форма напоминает сталагмит. Торжественная церемония открытия состоялась 4 января 2010 года.",
+        infoDE: "Der Burj Khalifa ist das höchste Gebäude der Welt! Die Höhe des Wolkenkratzers in Dubai beträgt 828 Meter, das sind 163 Stockwerke. Seine Form erinnert an einen Stalagmiten. Die Eröffnungsfeier fand am 4. Januar 2010 statt.",
+        pictureURL: "./halifa.jpeg"
+    },
+    {
+        titleEN: "Al Fahidi",
+        titleRU: "Аль-Фахиди",
+        titleDE: "Al Fahidi",
+        infoEN: "The fate of the country are devoted to the exposition of the Dubai National Museum. Here you can see numerous artifacts from the rich history of not only this emirate, but of the federation as a whole. The entrance to the museum is through the ancient Al Fahidi Fort, whose courtyard displays traditional thatched huts of the Emirates’ indigenous inhabitants. The vast dungeons of the fort are equipped with the latest technology: visitors are offered an interactive tour of prehistoric, medieval and modern Dubai. The highlight is the pearl market recreated in great detail with its authentic lights and sounds.",
+        infoRU: "Судьбе страны посвящены экспозиции Дубайского национального музея. Здесь можно увидеть многочисленные артефакты из богатой истории не только этого эмирата, но и федерации в целом. Вход в музей — через старинный форт Аль-Фахиди, во внутреннем дворе которого выставлены традиционные тростниковые хижины коренных жителей Эмиратов. Обширные подземелья форта обустроены по последнему слову техники: вниманию посетителей предлагается интерактивная экскурсия по Дубаю доисторическому, средневековому и современному. Кульминация — воссозданный в мельчайших деталях рынок жемчуга с его аутентичным светом и звуками.",
+        infoDE: "Die Exposition des Dubai National Museums ist dem Schicksal des Landes gewidmet. Hier können Sie zahlreiche Artefakte aus der reichen Geschichte nicht nur dieses Emirats, sondern der gesamten Föderation sehen. Der Zugang zum Museum erfolgt über das alte Al Fahidi Fort, in dessen Innenhof traditionelle strohgedeckte Hütten der ursprünglichen Bewohner der Emirate zu sehen sind. Die riesigen Verliese des Forts sind auf dem neuesten Stand der Technik und bieten den Besuchern eine interaktive Tour durch das prähistorische, mittelalterliche und moderne Dubai. Ein Highlight ist der detailgetreu nachgebaute Perlenmarkt mit seinen authentischen Lichtern und Geräuschen.",
+        pictureURL: "./al_fahidi.jpeg"
+    },
+    {
+        titleEN: "Al Qasba in Sharjah",
+        titleRU: "Аль-Касба в Шардже",
+        titleDE: "Al Qasba in Sharjah",
+        infoEN: "This area south of Khalid Lagoon is a popular pedestrian zone and the hub of entertainment in Sharjah. It features an abundance of restaurants and cafes, ice-cream stands and a 9D cinema. Due to the perfect safety and decency of everything that goes on in the Kasbah, you can walk here during the day and at night. At night, bright lights add to the beauty. For children and adults there are attractions, at night the singing fountains are beautifully lit, and a light show is projected on the wall of one of the buildings. And the Ferris wheel and Abra water cab make the Kasbah especially attractive.",
+        infoRU: "Это место к югу от лагуны Халид — популярная пешеходная зона, где сосредоточены все развлечения Шарджи. Здесь собрано множество ресторанов и кафе, лотков с мороженым и кинотеатр 9D. Благодаря совершенной безопасности и благопристойности всего происходящего в Касбе, гулять здесь можно и днём, и ночью. Ночью красоты добавляет яркая подсветка. Для детей и взрослых работают аттракционы, в тёмное время суток поющие фонтаны красиво подсвечены, а на стену одного из зданий проецируется световое шоу. А особенную привлекательность Касбе придают колесо обозрения Феррис и абра — водные такси.",
+        infoDE: "Direkt südlich der Khalid-Lagune ist dies ein beliebtes Wandergebiet und das Zentrum der Unterhaltung in Sharjah. Es enthält eine Mischung aus Restaurants und Cafés, Eisständen und einem 9D-Kino. Aufgrund der perfekten Sicherheit und Anständigkeit der Kasbah können Sie hier tagsüber und nachts spazieren gehen. Nachts tragen die hellen Lichter zur Schönheit bei. Für Kinder und Erwachsene gibt es Fahrgeschäfte, nachts sind die singenden Fontänen schön beleuchtet, und auf die Wand eines der Gebäude wird eine Lichtshow projiziert. Und besonders attraktiv sind das Riesenrad der Kasbah und die Abra-Wassertaxis.",
+        pictureURL: "./al_casaba.jpeg"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        titleEN: "Ipanema Beach",
+        titleRU: "Пляж Ипанема",
+        titleDE: "Ipanema Strand",
+        infoEN: "Ipanema Beach is located in the Brazilian tropics of the famous Rio de Janeiro. Not far from the popular Copacabana beach. Ipanema has a long stretch along the coast and is decorated with a wonderful mosaic walkway along its entire length. Along the sidewalk, happy residents and visitors are constantly walking. Ipanema offers wonderful views from all around: the mountain range known as the “Two Brothers”, the Cagarras archipelago just 5 km from the beach and the Ipanema area is famous for its fashionable hotels, restaurants and boutiques.",
+        infoRU: "Пляж Ипанема находится в Бразильских тропиках знаменитого Рио-де-Жанейро. Неподалеку от популярного пляжа Копакабана. Ипанема имеет большую протяженность вдоль побережья и украшен чудесной мозаичной дорожкой во всю его длину. Вдоль тротуара постоянно гуляют счастливые жители и гости города. Чудные виды открываются на Ипанему со всех сторон света: горный массив, названный «Два брата»; архипелаг Кагаррас виднеется неподалеку в 5 км от пляжа; a еще район Ипанемы прославился своими фешенебельными отелями, ресторанами и бутиками.",
+        infoDE: "Der Strand von Ipanema liegt in den brasilianischen Tropen im berühmten Rio de Janeiro. Es ist nicht weit vom beliebten Copacabana-Strand entfernt. Ipanema erstreckt sich über eine lange Strecke entlang der Küste und ist über die gesamte Länge mit einem wunderschönen Mosaiksteg geschmückt. Entlang des Bürgersteigs flanieren ständig fröhliche Bewohner und Besucher. Es gibt wunderbare Ausblicke auf Ipanema aus allen Richtungen - die Gebirgskette, die als die “Zwei Brüder” bekannt ist, der Archipel der Cagarras, der nur 5 km vom Strand entfernt ist, und die Gegend um Ipanema ist berühmt für ihre modischen Hotels, Restaurants und Boutiquen.",
+        pictureURL: "./ipanema_beach.jpeg"
+    },
+    {
+        titleEN: "Corcovado mountain",
+        titleRU: "гора Корковадо",
+        titleDE: "Corcovado",
+        infoEN: "Corcovado is the most famous mountain in Brazil, located near the center of Rio de Janeiro, in the Tijuc National Park. Its height is 710 meters.\nThe mountain owes its worldwide fame to the statue of Christ the Redeemer, the symbol of Rio de Janeiro, mounted on top.",
+        infoRU: "Самая известная гора Бразилии, Корковадо, находится рядом с центром Рио-де-Жанейро, на территории национального парка Тижук. Высота её составляет 710 метров.\nСвоей всемирной славой гора обязана статуе Христа Искупителя, символу Рио-де-Жанейро, установленной на вершине.",
+        infoDE: "Der Corcovado ist der berühmteste Berg Brasiliens, in der Nähe des Zentrums von Rio de Janeiro, im Tijuc-Nationalpark. Seine Höhe beträgt 710 Meter.\nSeine weltweite Bekanntheit verdankt der Berg der auf dem Gipfel errichteten Christusstatue, dem Wahrzeichen von Rio de Janeiro.",
+        pictureURL: "./corcovado.jpeg"
+    },
+    {
+        titleEN: "Statue of Christ the Redeemer",
+        titleRU: "Статуя Христа Искупителя",
+        titleDE: "Statue von Christus dem Erlöser",
+        infoEN: "Atop Mount Corcovado in Brazil stands one of the Seven New Wonders of the World, the statue of Jesus Christ in Rio de Janeiro. The observation deck at the feet of the art deco statue offers a panorama of the city of ten million people with its sights and beaches. The laconic figure of Christ the Redeemer (Cristo Redentor) in the form of a guarding cross is the fifth largest among a number of similar monuments around the world. This monument is known as a religious and cultural symbol",
+        infoRU: "В Бразилии на вершине горы Корковаду стоит одно из Семи Новых Чудес Мира — статуя Иисуса Христа в Рио-де-Жанейро. Со смотровой площадки у ног статуи, выполненной в стиле арт-деко, открывается панорама десятимиллионного города с достопримечательностями и пляжами. Лаконичная фигура Христа Спасителя (Cristo Redentor) в виде оберегающего креста занимает пятое место по величине среди ряда подобных монументов, расположенных по всему миру. Этот памятник известен как религиозный и культурный символ",
+        infoDE: "Eines der sieben neuen Weltwunder, die Statue von Jesus Christus in Rio de Janeiro, steht auf dem Berg Corcovado in Brasilien. Die Aussichtsplattform zu Füßen der Statue, die im Art-déco-Stil gehalten ist, bietet einen Rundblick über die Zehn-Millionen-Stadt mit ihren Sehenswürdigkeiten und Stränden. Die lakonische Figur von Christus dem Erlöser (Cristo Redentor) in Form eines wachenden Kreuzes ist das fünftgrößte unter einer Reihe von ähnlichen Denkmälern auf der ganzen Welt. Er ist als religiöses und kulturelles Symbol bekannt",
+        pictureURL: "./iisus.jpeg"
+    },
+    {
+        titleEN: "Fernando de Noronha Archipelago",
+        titleRU: "Архипелаг Фернанду-ди-Норонья",
+        titleDE: "Fernando de Noronha Archipel",
+        infoEN: "The Fernando de Noronha Archipelago is a volcanic archipelago in the Atlantic Ocean, 354 km from the north-east coast of Brazil. It includes 21 islands with a total area of 18.4 square kilometers, of which more than 90% are the largest island of the group, which gave its name to the entire archipelago.\nUntil the 19th century the archipelago was covered with dense forests, which were later cut down almost entirely for a very prosaic reason - the main island was a convict prison, and the trees were cut down so that its inmates had nowhere to hide after escaping.",
+        infoRU: "Фернанду-ди-Норонья – архипелаг вулканического происхождения, расположенный в Атлантическом океане в 354 км. от северо-восточного побережья Бразилии. Он включает 21 остров общей площадью 18,4 кв. км., из них свыше 90% приходится на самый большой остров группы, давший своё имя всему архипелагу.\nДо XIX века архипелаг был покрыт густыми лесами, которые затем были практически полностью вырублены по очень прозаической причине — на главном острове находилась каторжная тюрьма, и деревья вырубили, чтобы её постояльцам негде было прятаться после побегов.",
+        infoDE: "Der Fernando de Noronha Archipel ist ein vulkanischer Archipel im Atlantischen Ozean, 354 km vor der Nordostküste Brasiliens. Sie besteht aus 21 Inseln mit einer Gesamtfläche von 18,4 qkm, von denen über 90% auf die größte Insel der Gruppe entfallen, die dem gesamten Archipel ihren Namen gab.\nBis ins 19. Jahrhundert war der Archipel mit dichten Wäldern bedeckt, die später aus einem sehr prosaischen Grund fast vollständig abgeholzt wurden - die Hauptinsel war ein Strafgefängnis, und die Bäume wurden gefällt, damit die Bewohner nach ihrer Flucht keinen Platz zum Verstecken hatten.",
+        pictureURL: "./fernandu.jpeg"
+    },
+    {
+        titleEN: "Iguazu Falls",
+        titleRU: "водопады Игуасу",
+        titleDE: "Iguazu-Fälle",
+        infoEN: "The Iguazu Falls are a system of waterfalls formed by the course of the Iguazu River, 24 km. before it empties into the Parana River. The complex combines 275 waterfalls, the average height of which is 70 meters. The width of the river in this place is about 4 km, but the channel is divided by islands and the total width of the waterfalls does not exceed 2700 m.",
+        infoRU: "Водопадами Игуасу (в переводе с гуарани «Большая вода») называют систему каскадов, образованных течением одноименной реки за 24 км. до её впадения в Парану. Комплекс объединяет 275 водопадов, средняя высота которых 70 метров. Ширина реки в этом месте около 4 км., однако русло разделено островами, и общая ширина водопадов не превышает 2700 м.",
+        infoDE: "Die Iguazu-Wasserfälle sind ein System von Wasserfällen, die durch den Verlauf des Iguazu-Flusses gebildet werden, 24 km bevor er in den Parana-Fluss mündet. Der Komplex umfasst 275 Wasserfälle, deren durchschnittliche Höhe 70 m beträgt. Die Breite des Flusses in diesem Bereich beträgt ca. 4 km, aber der Kanal ist durch Inseln geteilt und die Gesamtbreite der Wasserfälle beträgt nicht mehr als 2700 m.",
+        pictureURL: "./igausu.jpeg"
+    },
+    {
+        titleEN: "Jau National Park",
+        titleRU: "Национальный парк Жау",
+        titleDE: "Jau-Nationalpark",
+        infoEN: "Jau National Park, one of the largest in the country, was created in 1980. It is located in the heart of the Amazon jungle, 200 km. north of the “rubber capital” Manaus. Almost the entire territory of the park lies in the basin of the river Jau, a tributary of the Rio Negro. In 2000 it was declared a UNESCO World Heritage Site. Jau Park is part of the Central Amazon Conservation Complex.",
+        infoRU: "Национальный парк Жау, один из крупнейших в стране, создан в 1980 году. Он находится в сердце амазонской сельвы в 200 км. к северу от «каучуковой столицы» Манауса. Практически вся территория парка лежит в бассейне реки Жау, притока Риу-Негру. В 2000 г. он объявлен ЮНЕСКО объектом Всемирного наследия. Парк Жау является частью Центрально-Амазонского заповедного комплекса.",
+        infoDE: "Der Jau-Nationalpark, einer der größten des Landes, wurde 1980 gegründet. Es liegt im Herzen des amazonischen Dschungels, 200 km nördlich der “Kautschukhauptstadt” Manaus. Fast das gesamte Gebiet des Parks liegt im Einzugsgebiet des Flusses Jau, einem Nebenfluss des Rio Negro. Im Jahr 2000 wurde es zum UNESCO-Weltkulturerbe erklärt. Der Jau Park ist Teil des Central Amazon Conservation Complex.",
+        pictureURL: "./gau.jpeg"
+    },
+    {
+        titleEN: "Ibirapuera Park",
+        titleRU: "Парк Ибирапуэра",
+        titleDE: "Ibirapuera-Park",
+        infoEN: "Ibirapuera Park is located in the largest city of the Southern Hemisphere, São Paulo, and is considered the best park in the metropolis. It is located in the heart of the city on Avenida Pedro Álvarez Cabral and covers about 140 hectares.\nThe history of the park begins in 1954. Its opening was timed to coincide with the 400th anniversary of the city. The landscape of the park was designed by Robert Burle Marx, the authorship of the projects of buildings belongs to the famous Oscar Niemeyer.",
+        infoRU: "Парк Ибирапуэра находится в самом большом городе Южного полушария Сан-Паулу и считается лучшим парком мегаполиса. Он расположен в самом центре города на Авеню Педро Альварес Кабрал и занимает площадь около 140 га.\nИстория парка начинается в 1954 году. Его открытие приурочили к 400-летнему юбилею города. Ландшафт парка спроектировал Роберту Бурле Маркс, авторство проектов зданий принадлежит знаменитому Оскару Нимейеру.",
+        infoDE: "Der Ibirapuera-Park befindet sich in der größten Stadt der südlichen Hemisphäre, São Paulo, und gilt als der beste Park der Metropole. Es befindet sich im Herzen der Stadt an der Avenida Pedro Álvarez Cabral und umfasst etwa 140 Hektar.\nDie Geschichte des Parks beginnt im Jahr 1954. Seine Eröffnung wurde zeitlich mit dem 400-jährigen Jubiläum der Stadt abgestimmt. Die Landschaft des Parks wurde von Robert Burle Marx entworfen, die Urheberschaft an den Gebäuden gehört dem berühmten Oscar Niemeyer.",
+        pictureURL: "ibirapuera.jpeg"
+    },
+    {
+        titleEN: "Maracana Stadium",
+        titleRU: "Стадион Маракана",
+        titleDE: "Maracana-Stadion",
+        infoEN: "Maracana is the largest stadium in Brazil and the second largest in Latin America. Until recently - the largest arena in the world. Home stadium of Flamengo, Fluminense and the Brazilian national team. Located in Rio de Janeiro.",
+        infoRU: "«Маракана» — крупнейший стадион Бразилии и второй в Латинской Америке. До недавнего времени – самая вместительная арена мира. Домашний стадион «Фламенго», «Флуминенсе» и сборной Бразилии. Расположен в Рио-де-Жанейро.",
+        infoDE: "Das Maracana ist das größte Stadion in Brasilien und das zweitgrößte in Lateinamerika. Bis vor kurzem - die größte Arena der Welt. Das Heimstadion von Flamengo, Fluminense und der brasilianischen Nationalmannschaft. Befindet sich in Rio de Janeiro.",
+        pictureURL: "maracana.jpeg"
+    }
+]

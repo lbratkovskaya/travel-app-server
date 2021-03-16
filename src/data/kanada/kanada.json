@@ -1,0 +1,74 @@
+[
+    {
+        titleEN: "Notre Dame de Montreal Basilica",
+        titleRU: "Базилика Нотр-Дам де Монреаль",
+        titleDE: "Basilika Notre Dame de Montréal",
+        infoEN: "Located in the historic quarter of Montreal, it is considered one of the most beautiful churches in Canada. It is a neo-Gothic cathedral adorned by 70-meter bell towers. These bell towers used to serve as landmarks in the city, and today it is one of the most beautiful architectural structures in the city.",
+        infoRU: "Расположена в историческом квартале Монреаля и считается одной из самых красивых церквей в Канаде. Это собор в неоготическом стиле, который украшают 70-метровые колокольни. Эти колокольни ранее служили ориентиром в городе, а сегодня — это одно из самых красивых архитектурных сооружений в городе.",
+        infoDE: "Sie befindet sich im historischen Viertel von Montreal und gilt als eine der schönsten Kirchen in Kanada. Es ist eine Kathedrale im neugotischen Stil, die von 70 Meter hohen Glockentürmen geschmückt wird. Diese Glockentürme dienten früher als Wahrzeichen der Stadt und sind heute eine der schönsten architektonischen Strukturen der Stadt.",
+        pictureURL: "./bazilika.jpeg"
+    },
+    {
+        titleEN: "Gastown",
+        titleRU: "Гэстаун",
+        titleDE: "Gastown",
+        infoEN: "Gastown is Vancouver’s oldest and most legendary neighbourhood. Many people think that if the city is not more than three hundred years old, you can hardly find any antiquity there. Of course, on the American continent, the notion of old and new is not the same as on the European continent.",
+        infoRU: "Гэстаун (Gastown) — старейший, овеянный легендами район Ванкувера. Многие думают, что, если возраст города не превышает трехсот лет, то и старину там вряд ли можно обнаружить. Конечно, на американском континенте представления о старом и новом совсем не такие, как на европейском.",
+        infoDE: "Gastown ist das älteste und legendärste Viertel in Vancouver. Viele Leute denken, wenn die Stadt weniger als dreihundert Jahre alt ist, kann man dort kaum Altertümer finden. Natürlich sind die Vorstellungen von Alt und Neu auf dem amerikanischen Kontinent nicht die gleichen wie in Europa.",
+        pictureURL: "./gestown.jpeg"
+    },
+    {
+        titleEN: "National Gallery of Canada",
+        titleRU: "Национальная галерея Канады",
+        titleDE: "Nationale Galerie von Kanada",
+        infoEN: "One of Ottawa’s most famous museums is the National Gallery of Canada. Its glass and granite building with octagonal towers was designed by the famous architect Moshe Safdie and built in 1988. It is nothing more or less than an almost ten meters metal spider of a creepy kind.",
+        infoRU: "Один из самых известных музеев Оттавы — Национальная галерея Канады. Её здание из стекла и гранита с восьмиугольными башнями было спроектировано знаменитым архитектором Моше Сафди и построено в 1988 г. Правда, многих во время внешнего осмотра поражает даже не столько здание само по себе, а то, что перед ним стоит. А это ни больше ни меньше как почти десятиметровый металлический паук вполне себе жутковатого вида.",
+        infoDE: "Eines der bekanntesten Museen in Ottawa ist die National Gallery of Canada. Das Gebäude aus Glas und Granit mit achteckigen Türmen wurde von dem berühmten Architekten Moshe Safdie entworfen und 1988 gebaut. Es ist nicht mehr und nicht weniger als eine fast zehn Meter lange Metallspinne der ganz unheimlichen Art.",
+        pictureURL: "./gallery.jpeg"
+    },
+    {
+        titleEN: "Banff National Park",
+        titleRU: "Национальный парк Банф",
+        titleDE: "Banff-Nationalpark",
+        infoEN: "Canada’s first park, which was established in 1885. Located in the province of Alberta, about 110 kilometers from Calgary, it is also considered the largest national park in Canada and one of the largest in the world.",
+        infoRU: "Первый парк Канады, который был создан в 1885 году. Расположенный в провинции Альберта, примерно в 110 километрах от Калгари, он также считается крупнейшим национальным парком в Канаде и одним из крупнейших во всем мире.",
+        infoDE: "Der erste Park Kanadas, gegründet 1885. Er liegt in der Provinz Alberta, etwa 110 km von Calgary entfernt, und gilt als der größte Nationalpark Kanadas und einer der größten der ganzen Welt.",
+        pictureURL: "./park.jpeg"
+    },
+    {
+        titleEN: "St. Joseph’s Oratory",
+        titleRU: "Оратория Св. Иосифа",
+        titleDE: "St. Josephs Oratorium",
+        infoEN: "The Oratory of St. Joseph Mont-Royal is a Roman Catholic small basilica and the largest church in Canada. The dome of the basilica was created in 1937-1939 by Father Paul Bello, a Benedictine architect, and was the third largest dome of its type in the world (after the Basilica of Our Lady of Yamoussoukro in Ivory Coast and St. Peter’s Church in Rome).",
+        infoRU: "Оратория Св. Иосифа Мон-Рояль — это римско-католическая малая базилика и самая большая церковь в Канаде. Купол базилики был создан в 1937—1939 гг. отцом-бенедиктинцем Полем Белло, архитектором, и стал третьим по величине куполом такого типа в мире (после базилики Богородицы Ямусукро в Кот-д’Ивуар и храма Св. Петра в Риме).",
+        infoDE: "Das Oratorium von St. Joseph Mont-Royal ist eine kleine römisch-katholische Basilika und die größte Kirche in Kanada. Die Kuppel der Basilika wurde zwischen 1937 und 1939 von Pater Paul Bello, einem benediktinischen Architekten, geschaffen und war die drittgrößte Kuppel ihrer Art in der Welt (nach der Basilika Unserer Lieben Frau von Yamoussoukro in der Elfenbeinküste und der Peterskirche in Rom).",
+        pictureURL: "./oratory.jpeg"
+    },
+    {
+        titleEN: "Vancouver Island",
+        titleRU: "Остров Ванкувер",
+        titleDE: "Vancouver Insel",
+        infoEN: "Vancouver itself is located in the province of British Columbia, exactly across the strait from it is the island of the same name, the capital of which bears the proud name of Victoria. Since ancient times, the beauty of the island has amazed and amazed all travelers who managed to get to these places. But despite our age of high technology, even today you can find places on the island that have not been touched by the hands of civilized man.",
+        infoRU: "Сам Ванкувер расположен в провинции Британская Колумбия, ровно через пролив от него — одноименный остров, столица которого носит гордое имя Виктория. Красота острова с самых давних времён удивляла и поражала всех путешественников, которым удавалось добраться до этих мест. Но, несмотря на наш век высоких технологий, на острове и сегодня можно встретить места, которые не были тронуты руками цивилизованного человека.",
+        infoDE: "Vancouver selbst befindet sich in der Provinz British Columbia, genau gegenüber liegt die gleichnamige Insel, deren Hauptstadt den stolzen Namen Victoria trägt. Die Schönheit der Insel hat alle Reisenden, die es seit der Antike geschafft haben, diese Orte zu erreichen, verblüfft und in Erstaunen versetzt. Doch trotz unseres Hightech-Zeitalters gibt es auf der Insel noch Orte, die von den Händen des zivilisierten Menschen nicht berührt wurden.",
+        pictureURL: "./vankuver.jpeg"
+    },
+    {
+        titleEN: "Old Montreal",
+        titleRU: "Старый Монреаль",
+        titleDE: "Alt-Montreal",
+        infoEN: "The oldest part of the city, where some buildings of the New French period are still preserved. It is located in the Ville-Marie area, north of the St. Lawrence River. Within Old Montreal are such striking landmarks as the old port, City Hall, Notre Dame Basilica, Montreal Clock Tower, and Jacques Cartier Bridge. Much of Old Montreal was declared a historic district by the Quebec Ministry of Culture in 1964.",
+        infoRU: "Наиболее старая часть города, где ещё сохранились некоторые постройки периода Новой Франции. Он расположен в районе Вилль-Мари, к северу от реки Св. Лаврентия. На территории Старого Монреаля находятся такие яркие достопримечательности, как старый порт, Ратуша, базилика Нотр-Дам, Монреальская часовая башня, мост Жака Картье. Большую часть Старого Монреаля министерство культуры Квебека объявило историческим районом в 1964 г.",
+        infoDE: "Der älteste Teil der Stadt, in dem noch einige Gebäude aus der neufranzösischen Zeit erhalten sind. Es befindet sich in der Gegend von Ville-Marie, nördlich des St. Lawrence-Stroms. Das Gebiet von Old Montreal enthält so markante Wahrzeichen wie den alten Hafen, das Rathaus, die Notre Dame Basilika, den Montreal Clock Tower und die Jacques Cartier Brücke. Ein Großteil von Old Montreal wurde 1964 vom Ministerium für Kultur in Quebec zum historischen Bezirk erklärt.",
+        pictureURL: "./monreal.jpeg"
+    },
+    {
+        titleEN: "Van Dusen’s Botanical Gardens",
+        titleRU: "Ботанический сад Ван Дусена",
+        titleDE: "Botanische Gärten von Van Dusen",
+        infoEN: "The Van Dusen botanical garden is a 22-hectare oasis in the heart of Vancouver. More than 7,500 plant species from around the world grow here. You can get lost in the hedge maze, relax in the serenity of one of the benches, dine in the fine cafes and restaurants, and visit the gift store. A major plus is that it’s never crowded.",
+        infoRU: "Ботанический сад Ван Дусена — это оазис площадью 22 га в самом сердце Ванкувера. Здесь произрастают более 7500 видов растений со всей планеты. Тут можно потеряться в лабиринте из живой изгороди, расслабиться в безмятежной обстановке на одной из лавочек, пообедать в изысканных кафе и ресторанах, посетить сувенирный магазин. Главный плюс — здесь никогда не бывает много людей.",
+        infoDE: "Der botanische Garten Van Dusen ist eine 22 Hektar große Oase im Herzen von Vancouver. Mehr als 7.500 Pflanzenarten aus aller Welt wachsen hier. Hier können Sie sich im Heckenlabyrinth verirren, sich in der Ruhe einer der Bänke entspannen, in den Gourmet-Cafés und Restaurants speisen und den Geschenkeladen besuchen. Ein großes Plus ist, dass es nie überfüllt ist.",
+        pictureURL: "./vandusen.jpeg"
+    }
+]

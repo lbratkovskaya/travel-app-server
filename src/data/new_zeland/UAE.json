@@ -1,0 +1,104 @@
+[
+  // ru
+  {
+    "name": "",
+    "capital": "",
+    description: "",
+  },
+  // en
+  {
+    "name": "",
+    "capital": "",
+    description: "",
+  },
+  // de
+  {
+    "name": "",
+    "capital": "",
+    description: "",
+  },
+  {
+    "sights": [
+      // 1
+      {
+        titleEN: "",
+        titleRU: "",
+        titleDE: "",
+        infoEN: "",
+        infoRU: "",
+        infoDE: "",
+        pictureURL: "./.jpeg",
+      },
+      // 2
+      {
+        titleEN: "",
+        titleRU: "",
+        titleDE: "",
+        infoEN: "",
+        infoRU: "",
+        infoDE: "",
+        pictureURL: "./.jpeg",
+      },
+      // 3
+      {
+        titleEN: "",
+        titleRU: "",
+        titleDE: "",
+        infoEN: "",
+        infoRU: "",
+        infoDE: "",
+        pictureURL: "./.jpeg",
+      },
+      // 4
+      {
+        titleEN: "",
+        titleRU: "",
+        titleDE: "",
+        infoEN: "",
+        infoRU: "",
+        infoDE: "",
+        pictureURL: "./.jpeg",
+      },
+      // 5
+      {
+        titleEN: "",
+        titleRU: "",
+        titleDE: "",
+        infoEN: "",
+        infoRU: "",
+        infoDE: "",
+        pictureURL: "./.jpeg",
+      },
+      // 6
+      {
+        titleEN: "",
+        titleRU: "",
+        titleDE: "",
+        infoEN: "",
+        infoRU: "",
+        infoDE: "",
+        pictureURL: "./.jpeg",
+      },
+      // 7
+      {
+        titleEN: "",
+        titleRU: "",
+        titleDE: "",
+        infoEN: "",
+        infoRU: "",
+        infoDE: "",
+        pictureURL: "./.jpeg",
+      },
+      // 8
+      {
+        titleEN: "",
+        titleRU: "",
+        titleDE: "",
+        infoEN: "",
+        infoRU: "",
+        infoDE: "",
+        pictureURL: "./.jpeg",
+      },
+    ]
+  }
+]
