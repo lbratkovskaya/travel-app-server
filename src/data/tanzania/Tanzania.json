@@ -1,74 +1,74 @@
 [
     {
-        titleEN: "Kilimanjaro",
-        titleRU: "Килиманджаро",
-        titleDE: "Kilimanjaro",
-        infoEN: "The “crown of Tanzania” is Mount Kilimanjaro (Swahili for “the mountain that sparkles”). It is unrecognizable - rising directly above the flat plains, covered on top with a snowy cap, it has become a true symbol of the country. Each year about 15 thousand people “storm” Kilimanjaro and only 40% reach the top.\nKilimanjaro is the highest mountain in Africa (5890 m) with a base diameter of 60 km.",
-        infoRU: "«Корона Танзании» — гора Килиманджаро (с суахили — «гора, которая сверкает»). Ее невозможно не узнать — возвышающаяся прямо над плоскими равнинами, покрытая наверху снежной шапкой, она стала настоящим символом страны. Ежегодно около 15 тысяч человек «штурмуют» Килиманджаро и только 40 % достигает вершины.\nКилиманджаро — самая высокая гора в Африке (5890 м), диаметр ее основания составляет 60 км.",
-        infoDE: "“Die Krone Tansanias” ist der Kilimandscharo (Swahili für “der Berg, der funkelt”). Er ist nicht wiederzuerkennen - er erhebt sich direkt über den flachen Ebenen, bedeckt von einer schneebedeckten Kappe, und ist zu einem wahren Symbol des Landes geworden. Jedes Jahr “stürmen” etwa 15 Tausend Menschen den Kilimanjaro und nur 40% schaffen es bis zum Gipfel.\nDer Kilimanjaro ist der höchste Berg Afrikas (5890 m) und hat einen Basisdurchmesser von 60 km.",
-        pictureURL: "./kili.jpeg"
+        "titleEN": "Kilimanjaro",
+        "titleRU": "Килиманджаро",
+        "titleDE": "Kilimanjaro",
+        "infoEN": "The “crown of Tanzania” is Mount Kilimanjaro (Swahili for “the mountain that sparkles”). It is unrecognizable - rising directly above the flat plains, covered on top with a snowy cap, it has become a true symbol of the country. Each year about 15 thousand people “storm” Kilimanjaro and only 40% reach the top.\nKilimanjaro is the highest mountain in Africa (5890 m) with a base diameter of 60 km.",
+        "infoRU": "«Корона Танзании» — гора Килиманджаро (с суахили — «гора, которая сверкает»). Ее невозможно не узнать — возвышающаяся прямо над плоскими равнинами, покрытая наверху снежной шапкой, она стала настоящим символом страны. Ежегодно около 15 тысяч человек «штурмуют» Килиманджаро и только 40 % достигает вершины.\nКилиманджаро — самая высокая гора в Африке (5890 м), диаметр ее основания составляет 60 км.",
+        "infoDE": "“Die Krone Tansanias” ist der Kilimandscharo (Swahili für “der Berg, der funkelt”). Er ist nicht wiederzuerkennen - er erhebt sich direkt über den flachen Ebenen, bedeckt von einer schneebedeckten Kappe, und ist zu einem wahren Symbol des Landes geworden. Jedes Jahr “stürmen” etwa 15 Tausend Menschen den Kilimanjaro und nur 40% schaffen es bis zum Gipfel.\nDer Kilimanjaro ist der höchste Berg Afrikas (5890 m) und hat einen Basisdurchmesser von 60 km.",
+        "pictureURL": "./kili.jpeg"
     },
     {
-        titleEN: "Ngorongoro",
-        titleRU: "Нгоронгоро",
-        titleDE: "Ngorongoro",
-        infoEN: "Ngorongoro includes a complex of natural sites located near the Great African Rift in northeastern Tanzania, near the border with Kenya. Once part of the vast Serengeti Game Reserve, now a huge crater in Tanzania on the edge of the savanna, created by the collapse of a major volcano, is a natural attraction in its own right and is called the Ngorongoro Conservancy. This giant tropical park is listed as a UNESCO Natural World Heritage Site because of its unique habitat.",
-        infoRU: "Нгогонгоро включает комплекс природных объектов, расположенных вблизи Великого Африканского разлома в северо-восточной Танзании, недалеко от границы с Кенией. Когда-то бывший частью огромного заповедника Серенгети, сейчас огромный кратер в Танзании на краю саванны, возникший в результате коллапса крупного вулкана, является самостоятельной природной достопримечательностью и носит название «Консервация Нгоронгоро». Этот гигантский тропический парк внесён в список ЮНЕСКО «Природное наследие мира», благодаря уникальности среды обитания.",
-        infoDE: "Der Ngorongoro umfasst einen Komplex von Naturmerkmalen, der in der Nähe des Großen Afrikanischen Grabens im Nordosten Tansanias, nahe der Grenze zu Kenia, liegt. Einst Teil des riesigen Serengeti-Reservats, ist heute ein riesiger Krater in Tansania am Rande der Savanne, der durch den Einsturz eines großen Vulkans entstanden ist, eine natürliche Attraktion für sich und wird Ngorongoro Conservancy genannt. Dieser gigantische Tropenpark gehört aufgrund seines einzigartigen Lebensraumes zum UNESCO-Weltnaturerbe.",
-        pictureURL: "./ngorongoro.jpeg"
+        "titleEN": "Ngorongoro",
+        "titleRU": "Нгоронгоро",
+        "titleDE": "Ngorongoro",
+        "infoEN": "Ngorongoro includes a complex of natural sites located near the Great African Rift in northeastern Tanzania, near the border with Kenya. Once part of the vast Serengeti Game Reserve, now a huge crater in Tanzania on the edge of the savanna, created by the collapse of a major volcano, is a natural attraction in its own right and is called the Ngorongoro Conservancy. This giant tropical park is listed as a UNESCO Natural World Heritage Site because of its unique habitat.",
+        "infoRU": "Нгогонгоро включает комплекс природных объектов, расположенных вблизи Великого Африканского разлома в северо-восточной Танзании, недалеко от границы с Кенией. Когда-то бывший частью огромного заповедника Серенгети, сейчас огромный кратер в Танзании на краю саванны, возникший в результате коллапса крупного вулкана, является самостоятельной природной достопримечательностью и носит название «Консервация Нгоронгоро». Этот гигантский тропический парк внесён в список ЮНЕСКО «Природное наследие мира», благодаря уникальности среды обитания.",
+        "infoDE": "Der Ngorongoro umfasst einen Komplex von Naturmerkmalen, der in der Nähe des Großen Afrikanischen Grabens im Nordosten Tansanias, nahe der Grenze zu Kenia, liegt. Einst Teil des riesigen Serengeti-Reservats, ist heute ein riesiger Krater in Tansania am Rande der Savanne, der durch den Einsturz eines großen Vulkans entstanden ist, eine natürliche Attraktion für sich und wird Ngorongoro Conservancy genannt. Dieser gigantische Tropenpark gehört aufgrund seines einzigartigen Lebensraumes zum UNESCO-Weltnaturerbe.",
+        "pictureURL": "./ngorongoro.jpeg"
     },
     {
-        titleEN: "Stone Town House of Wonders",
-        titleRU: "Дом чудес в Стоун-Тауне",
-        titleDE: "Steinstadt Haus der Wunder",
-        infoEN: "The palace, built in 1883, was designed by an unknown architect, but historical sources say he was from Scotland. Once built, the building served as a sultan’s residence and royal dynasties lived here until 1964. The House of Wonders is the largest and most impressive building in Stone Town, its tower towering high above the other structures and visible from afar.",
-        infoRU: "Автором проекта дворца, построенного в 1883 г., был неизвестный архитектор, но исторические источники утверждают, что он был родом из Шотландии. После постройки здание служило султанской резиденцией, королевские династии жили здесь вплоть до 1964 г. Дом чудес — самое большое и наиболее впечатляющее здание в Каменном городе, его башня возвышается высоко над другими строениями и видна издалека.",
-        infoDE: "Der 1883 erbaute Palast wurde von einem unbekannten Architekten entworfen, aber historische Quellen bestätigen, dass er aus Schottland stammte. Nach seiner Errichtung diente das Gebäude als Sultansresidenz, die königlichen Dynastien lebten hier bis 1964. Das Haus der Wunder ist das größte und beeindruckendste Gebäude in Stone Town, sein Turm ragt hoch über die anderen Bauwerke hinaus und ist schon von weitem sichtbar.",
-        pictureURL: "./wonders.jpeg"
+        "titleEN": "Stone Town House of Wonders",
+        "titleRU": "Дом чудес в Стоун-Тауне",
+        "titleDE": "Steinstadt Haus der Wunder",
+        "infoEN": "The palace, built in 1883, was designed by an unknown architect, but historical sources say he was from Scotland. Once built, the building served as a sultan’s residence and royal dynasties lived here until 1964. The House of Wonders is the largest and most impressive building in Stone Town, its tower towering high above the other structures and visible from afar.",
+        "infoRU": "Автором проекта дворца, построенного в 1883 г., был неизвестный архитектор, но исторические источники утверждают, что он был родом из Шотландии. После постройки здание служило султанской резиденцией, королевские династии жили здесь вплоть до 1964 г. Дом чудес — самое большое и наиболее впечатляющее здание в Каменном городе, его башня возвышается высоко над другими строениями и видна издалека.",
+        "infoDE": "Der 1883 erbaute Palast wurde von einem unbekannten Architekten entworfen, aber historische Quellen bestätigen, dass er aus Schottland stammte. Nach seiner Errichtung diente das Gebäude als Sultansresidenz, die königlichen Dynastien lebten hier bis 1964. Das Haus der Wunder ist das größte und beeindruckendste Gebäude in Stone Town, sein Turm ragt hoch über die anderen Bauwerke hinaus und ist schon von weitem sichtbar.",
+        "pictureURL": "./wonders.jpeg"
     },
     {
-        titleEN: "Arusha",
-        titleRU: "Аруша",
-        titleDE: "Arusha",
-        infoEN: "The former colonial town of Arusha has long been transformed into the bustling colorful tourist capital of Tanzania, which is the starting point for safari trips to the most famous national parks and reserves: Serengeti Park, Ngorongoro Reserve, Lake Manyara Park and Tarangire Park.",
-        infoRU: "Бывший колониальный городок Аруша давно превратился в шумную пеструю туристическую столицу Танзании, которая является отправной точкой для сафари в направлении самых известных национальных парков и заповедников: парк Серенгети, заповедник Нгоронгоро, парк озера Маньяра и парк Тарангире.",
-        infoDE: "Die ehemalige Kolonialstadt Arusha hat sich längst in die quirlige, farbenfrohe Touristenhauptstadt Tansanias verwandelt. Sie ist Ausgangspunkt für Safaritouren zu den berühmtesten Nationalparks und Reservaten: dem Serengeti-Park, dem Ngorongoro-Wildreservat, dem Lake Manyara-Park und dem Tarangire-Park.",
-        pictureURL: "./arusha.jpeg"
+        "titleEN": "Arusha",
+        "titleRU": "Аруша",
+        "titleDE": "Arusha",
+        "infoEN": "The former colonial town of Arusha has long been transformed into the bustling colorful tourist capital of Tanzania, which is the starting point for safari trips to the most famous national parks and reserves: Serengeti Park, Ngorongoro Reserve, Lake Manyara Park and Tarangire Park.",
+        "infoRU": "Бывший колониальный городок Аруша давно превратился в шумную пеструю туристическую столицу Танзании, которая является отправной точкой для сафари в направлении самых известных национальных парков и заповедников: парк Серенгети, заповедник Нгоронгоро, парк озера Маньяра и парк Тарангире.",
+        "infoDE": "Die ehemalige Kolonialstadt Arusha hat sich längst in die quirlige, farbenfrohe Touristenhauptstadt Tansanias verwandelt. Sie ist Ausgangspunkt für Safaritouren zu den berühmtesten Nationalparks und Reservaten: dem Serengeti-Park, dem Ngorongoro-Wildreservat, dem Lake Manyara-Park und dem Tarangire-Park.",
+        "pictureURL": "./arusha.jpeg"
     },
     {
-        titleEN: "Ruaha",
-        titleRU: "Руаха",
-        titleDE: "Ruaha",
-        infoEN: "Ruaha National Park was founded in 1964. Today, it is one of the most popular and visited nature reserves in the country. In addition, Ruaha is the second largest (after the Serengeti) National Park in Tanzania. It got its name from the Great Ruaha River flowing among the mountain gorges along its eastern border, and flowing into the Rufiji River.",
-        infoRU: "Национальный парк Руаха был основан в 1964 году. Сегодня это один из самых популярных и посещаемых заповедников в стране. К тому же, Руаха — второй по величине (после Серенгети) национальный парк Танзании. Свое название он получил от Великой Реки Руаха, протекающей среди горных ущелий по его восточной границе, и впадающей в реку Руфиджи.",
-        infoDE: "Der Ruaha-Nationalpark wurde im Jahr 1964 gegründet. Heute ist es eines der beliebtesten und meistbesuchten Naturschutzgebiete des Landes. Darüber hinaus ist Ruaha der zweitgrößte (nach der Serengeti) Nationalpark in Tansania. Es erhielt seinen Namen vom Großen Ruaha-Fluss, der zwischen den Bergschluchten entlang seiner östlichen Grenze fließt und in den Rufiji-Fluss mündet.",
-        pictureURL: "./ruaha.jpeg"
+        "titleEN": "Ruaha",
+        "titleRU": "Руаха",
+        "titleDE": "Ruaha",
+        "infoEN": "Ruaha National Park was founded in 1964. Today, it is one of the most popular and visited nature reserves in the country. In addition, Ruaha is the second largest (after the Serengeti) National Park in Tanzania. It got its name from the Great Ruaha River flowing among the mountain gorges along its eastern border, and flowing into the Rufiji River.",
+        "infoRU": "Национальный парк Руаха был основан в 1964 году. Сегодня это один из самых популярных и посещаемых заповедников в стране. К тому же, Руаха — второй по величине (после Серенгети) национальный парк Танзании. Свое название он получил от Великой Реки Руаха, протекающей среди горных ущелий по его восточной границе, и впадающей в реку Руфиджи.",
+        "infoDE": "Der Ruaha-Nationalpark wurde im Jahr 1964 gegründet. Heute ist es eines der beliebtesten und meistbesuchten Naturschutzgebiete des Landes. Darüber hinaus ist Ruaha der zweitgrößte (nach der Serengeti) Nationalpark in Tansania. Es erhielt seinen Namen vom Großen Ruaha-Fluss, der zwischen den Bergschluchten entlang seiner östlichen Grenze fließt und in den Rufiji-Fluss mündet.",
+        "pictureURL": "./ruaha.jpeg"
     },
     {
-        titleEN: "Serengeti",
-        titleRU: "Серенгети",
-        titleDE: "Serengeti",
-        infoEN: "The Serengeti Park (from the Maasai “siringet”, “endless plains”) is famous for its rich fauna: about five hundred species of birds and three million large animals can be found here. The park borders the Masai Mara Game Reserve to the north and Ngorongoro to the southeast.",
-        infoRU: "Парк Серенгети (от масайского «siringet», «бесконечные равнины») знаменит богатейшим животным миром: здесь можно найти примерно пятьсот видов птиц и три миллиона особей крупных животных. На севере парк граничит с заповедником Масаи-Мара, на юго-востоке — Нгоронгоро.",
-        infoDE: "Der Serengeti-Park (aus dem Maasai “siringet”, “endlose Ebenen”) ist berühmt für seine reiche Tierwelt: Etwa fünfhundert Vogelarten und drei Millionen Großtiere sind hier zu finden. Der Park grenzt im Norden an das Masai Mara Wildreservat und im Südosten an den Ngorongoro.",
-        pictureURL: "./serengheti.jpeg"
+        "titleEN": "Serengeti",
+        "titleRU": "Серенгети",
+        "titleDE": "Serengeti",
+        "infoEN": "The Serengeti Park (from the Maasai “siringet”, “endless plains”) is famous for its rich fauna: about five hundred species of birds and three million large animals can be found here. The park borders the Masai Mara Game Reserve to the north and Ngorongoro to the southeast.",
+        "infoRU": "Парк Серенгети (от масайского «siringet», «бесконечные равнины») знаменит богатейшим животным миром: здесь можно найти примерно пятьсот видов птиц и три миллиона особей крупных животных. На севере парк граничит с заповедником Масаи-Мара, на юго-востоке — Нгоронгоро.",
+        "infoDE": "Der Serengeti-Park (aus dem Maasai “siringet”, “endlose Ebenen”) ist berühmt für seine reiche Tierwelt: Etwa fünfhundert Vogelarten und drei Millionen Großtiere sind hier zu finden. Der Park grenzt im Norden an das Masai Mara Wildreservat und im Südosten an den Ngorongoro.",
+        "pictureURL": "./serengheti.jpeg"
     },
     {
-        titleEN: "Tanganyika",
-        titleRU: "Танганьика",
-        titleDE: "Tanganjika",
-        infoEN: "Freshwater Lake Tanganyika in Central Africa is one of the oldest and deepest lakes on the planet. It is the second deepest lake in the world after Lake Baikal, and the water in it is just as clear: visibility reaches 30 meters. Tanganyika is listed in the book of records as the longest freshwater lake, stretching from north to south for 673 kilometers!",
-        infoRU: "Пресноводное озеро Танганьика в Центральной Африке — одно из самых древних и глубоких на планете. Оно второе по глубине в мире после Байкала, а вода в нем такая же прозрачная: видимость достигает 30 м. Танганьика внесена в книгу рекордов как самое длинное среди пресноводных озер — оно протянулось с севера на юг на 673 км!",
-        infoDE: "Der Süßwassersee Tanganjika in Zentralafrika ist einer der ältesten und tiefsten Seen der Erde. Er ist nach dem Baikalsee der zweittiefste See der Welt, und das Wasser in ihm ist ebenso klar: Die Sichtweite beträgt 30 m. Tanganjika steht im Buch der Rekorde als der längste Süßwassersee der Welt, der sich 673 km von Norden nach Süden erstreckt!",
-        pictureURL: "./tanganika.jpeg"
+        "titleEN": "Tanganyika",
+        "titleRU": "Танганьика",
+        "titleDE": "Tanganjika",
+        "infoEN": "Freshwater Lake Tanganyika in Central Africa is one of the oldest and deepest lakes on the planet. It is the second deepest lake in the world after Lake Baikal, and the water in it is just as clear: visibility reaches 30 meters. Tanganyika is listed in the book of records as the longest freshwater lake, stretching from north to south for 673 kilometers!",
+        "infoRU": "Пресноводное озеро Танганьика в Центральной Африке — одно из самых древних и глубоких на планете. Оно второе по глубине в мире после Байкала, а вода в нем такая же прозрачная: видимость достигает 30 м. Танганьика внесена в книгу рекордов как самое длинное среди пресноводных озер — оно протянулось с севера на юг на 673 км!",
+        "infoDE": "Der Süßwassersee Tanganjika in Zentralafrika ist einer der ältesten und tiefsten Seen der Erde. Er ist nach dem Baikalsee der zweittiefste See der Welt, und das Wasser in ihm ist ebenso klar: Die Sichtweite beträgt 30 m. Tanganjika steht im Buch der Rekorde als der längste Süßwassersee der Welt, der sich 673 km von Norden nach Süden erstreckt!",
+        "pictureURL": "./tanganika.jpeg"
     },
     {
-        titleEN: "Anglican Church in Stone Town",
-        titleRU: "Англиканская церковь в Стоун-Тауне",
-        titleDE: "Die anglikanische Kirche in Stone Town",
-        infoEN: "The first Catholic cathedral in all of East Africa. It was built in 1887, and today it is one of the most prominent attractions of the city and the entire island of Zanzibar, not only for religious people. Tourists flock here to see its unusual architecture - it mixes Gothic and traditional Arab elements, so at first glance it’s hard to tell if you’re looking at a Christian church or a Muslim mosque.",
-        infoRU: "Первый католический собор на территории всей Восточной Африки. Она была построена в 1887 г., и сегодня это одна из самых выдающихся достопримечательностей города и всего острова Занзибар, не только для религиозных людей. Сюда съезжаются туристы, чтобы посмотреть на ее необычную архитектуру — в ней смешались элементы готики и традиционного арабского стиля, потому с первого взгляда трудно понять, что перед вами — христианская церковь или мусульманская мечеть.",
-        infoDE: "Die erste katholische Kathedrale in ganz Ostafrika. Sie wurde 1887 erbaut und ist heute eines der markantesten Wahrzeichen der Stadt und der ganzen Insel Sansibar, nicht nur für die religiösen Menschen. Touristen strömen hierher, um die beeindruckende Architektur zu bewundern, die gotische und traditionelle arabische Elemente vermischt, so dass es schwer zu sagen ist, ob es sich um eine christliche Kirche oder eine muslimische Moschee handelt.",
-        pictureURL: "./church.jpeg"
+        "titleEN": "Anglican Church in Stone Town",
+        "titleRU": "Англиканская церковь в Стоун-Тауне",
+        "titleDE": "Die anglikanische Kirche in Stone Town",
+        "infoEN": "The first Catholic cathedral in all of East Africa. It was built in 1887, and today it is one of the most prominent attractions of the city and the entire island of Zanzibar, not only for religious people. Tourists flock here to see its unusual architecture - it mixes Gothic and traditional Arab elements, so at first glance it’s hard to tell if you’re looking at a Christian church or a Muslim mosque.",
+        "infoRU": "Первый католический собор на территории всей Восточной Африки. Она была построена в 1887 г., и сегодня это одна из самых выдающихся достопримечательностей города и всего острова Занзибар, не только для религиозных людей. Сюда съезжаются туристы, чтобы посмотреть на ее необычную архитектуру — в ней смешались элементы готики и традиционного арабского стиля, потому с первого взгляда трудно понять, что перед вами — христианская церковь или мусульманская мечеть.",
+        "infoDE": "Die erste katholische Kathedrale in ganz Ostafrika. Sie wurde 1887 erbaut und ist heute eines der markantesten Wahrzeichen der Stadt und der ganzen Insel Sansibar, nicht nur für die religiösen Menschen. Touristen strömen hierher, um die beeindruckende Architektur zu bewundern, die gotische und traditionelle arabische Elemente vermischt, so dass es schwer zu sagen ist, ob es sich um eine christliche Kirche oder eine muslimische Moschee handelt.",
+        "pictureURL": "./church.jpeg"
     }
 ]

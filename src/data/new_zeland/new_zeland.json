@@ -1,74 +1,74 @@
 [
     {
-        titleEN: "North Island",
-        titleRU: "Северный остров",
-        titleDE: "Nordinsel",
-        infoEN: "One of the most beautiful places on the planet, covered with a mix of snow blanketing the mountain peaks, is in Tongariro National Park. The remains of ancient volcanoes, geysers beating with incredible force around Rotorua, and the endless lush green meadows enclosed in a frame of blue-emerald forests are unique. ",
-        infoRU: "Одно из красивейших мест на планете, покрытое смесью снегов, мягким одеялом укутывающих горные вершины, находится на территории Национального парка Тонгариро. Уникальны останки древних вулканов, бьющие с невероятной силой гейзеры в окрестностях Роторуа,а глядеть на бесконечные сочно-зеленые луга, заключенные в оправу иссиня-изумрудных лесов — настоящее наслаждение. ",
-        infoDE: "Einer der schönsten Orte auf dem Planeten, bedeckt mit einer Mischung aus Schnee, der die Berggipfel bedeckt, befindet sich im Tongariro National Park. Die Überreste alter Vulkane sind einzigartig, Geysire sprudeln mit unglaublicher Kraft rund um Rotorua, und die endlosen saftig-grünen Wiesen, die von smaragdgrünen Wäldern umrahmt werden, sind eine wahre Augenweide.",
-        pictureURL: "./north_island.jpeg"
+        "titleEN": "North Island",
+        "titleRU": "Северный остров",
+        "titleDE": "Nordinsel",
+        "infoEN": "One of the most beautiful places on the planet, covered with a mix of snow blanketing the mountain peaks, is in Tongariro National Park. The remains of ancient volcanoes, geysers beating with incredible force around Rotorua, and the endless lush green meadows enclosed in a frame of blue-emerald forests are unique. ",
+        "infoRU": "Одно из красивейших мест на планете, покрытое смесью снегов, мягким одеялом укутывающих горные вершины, находится на территории Национального парка Тонгариро. Уникальны останки древних вулканов, бьющие с невероятной силой гейзеры в окрестностях Роторуа,а глядеть на бесконечные сочно-зеленые луга, заключенные в оправу иссиня-изумрудных лесов — настоящее наслаждение. ",
+        "infoDE": "Einer der schönsten Orte auf dem Planeten, bedeckt mit einer Mischung aus Schnee, der die Berggipfel bedeckt, befindet sich im Tongariro National Park. Die Überreste alter Vulkane sind einzigartig, Geysire sprudeln mit unglaublicher Kraft rund um Rotorua, und die endlosen saftig-grünen Wiesen, die von smaragdgrünen Wäldern umrahmt werden, sind eine wahre Augenweide.",
+        "pictureURL": "./north_island.jpeg"
     },
     {
-        titleEN: "Hobbiton",
-        titleRU: "Хоббитон",
-        titleDE: "Hobbiton",
-        infoEN: "One of New Zealand’s top tourist attractions is the village of Hobbiton, which has made New Zealand famous the world over. This place, located near the town of Matamata, is visited by thousands of Tolkien fans every year. The Lord of the Rings trilogy has made the once most ordinary New Zealand farm famous.",
-        infoRU: "Деревню Хоббитон, прославившую Новую Зеландию на весь мир, можно назвать одной из главных достопримечательностей страны. В это местечко, расположенное неподалеку от города Матамата, ежегодно приезжают тысячи поклонников Толкиена. Трилогия «Властелин колец» сделала известной некогда самую обычную новозеландскую ферму.",
-        infoDE: "Das Dorf Hobbiton, das Neuseeland in der ganzen Welt berühmt gemacht hat, ist eine der Top-Touristenattraktionen des Landes. Das Dorf liegt in der Nähe der Stadt Matamata und wird jedes Jahr von Tausenden von Tolkien-Fans besucht. Die “Herr der Ringe”-Trilogie hat die einst gewöhnliche neuseeländische Farm berühmt gemacht.",
-        pictureURL: "./hobitton.jpeg"
+        "titleEN": "Hobbiton",
+        "titleRU": "Хоббитон",
+        "titleDE": "Hobbiton",
+        "infoEN": "One of New Zealand’s top tourist attractions is the village of Hobbiton, which has made New Zealand famous the world over. This place, located near the town of Matamata, is visited by thousands of Tolkien fans every year. The Lord of the Rings trilogy has made the once most ordinary New Zealand farm famous.",
+        "infoRU": "Деревню Хоббитон, прославившую Новую Зеландию на весь мир, можно назвать одной из главных достопримечательностей страны. В это местечко, расположенное неподалеку от города Матамата, ежегодно приезжают тысячи поклонников Толкиена. Трилогия «Властелин колец» сделала известной некогда самую обычную новозеландскую ферму.",
+        "infoDE": "Das Dorf Hobbiton, das Neuseeland in der ganzen Welt berühmt gemacht hat, ist eine der Top-Touristenattraktionen des Landes. Das Dorf liegt in der Nähe der Stadt Matamata und wird jedes Jahr von Tausenden von Tolkien-Fans besucht. Die “Herr der Ringe”-Trilogie hat die einst gewöhnliche neuseeländische Farm berühmt gemacht.",
+        "pictureURL": "./hobitton.jpeg"
     },
     {
-        titleEN: "Milford Sound",
-        titleRU: "Милфорд-Саунд",
-        titleDE: "Milford Sound",
-        infoEN: "“The Eighth Wonder of the World” is what John Rudyard Kipling called the Milford Sound Fjord in New Zealand. No wonder Kipling gave this place such a high-profile name. Everyone who’s been here understands - Milford Sound is really the real wonder. Amid the rugged, rocky coastlines and verdant forests glisten the waters of the bay, with an endless sky above. Seeing this magnificence creates a sense of detachment from the modern world and union with nature.",
-        infoRU: "«Восьмое чудо света» — именно так назвал Джон Редьярд Киплинг фьорд Милфорд-Саунд в Новой Зеландии. Неудивительно, что Киплинг пожаловал этим местам столь громкое название. Каждый, кто бывал здесь, понимает — Милфорд-Саунд действительно самое настоящее чудо. Среди изрезанных высоких скалистых берегов и зеленых лесов сверкают воды залива, над которыми простирается бескрайний небесный свод. Когда видишь это великолепие, возникает полное ощущение оторванности от современного мира и единение с природой.",
-        infoDE: "“Das achte Weltwunder”, so nannte John Rudyard Kipling den Fjord des Milford Sound in Neuseeland. Kein Wunder, dass Kipling diesem Ort einen so hochtrabenden Namen gab. Jeder, der schon einmal hier war, weiß, dass der Milford Sound das eigentliche Wunder ist. Das Wasser der Bucht glitzert zwischen den zerklüfteten, felsigen Ufern und grünen Wäldern, mit einem endlosen Himmel darüber. Es ist eine großartige Erfahrung, völlig entfernt von der modernen Welt und eins mit der Natur.",
-        pictureURL: "./milford.jpeg"
+        "titleEN": "Milford Sound",
+        "titleRU": "Милфорд-Саунд",
+        "titleDE": "Milford Sound",
+        "infoEN": "“The Eighth Wonder of the World” is what John Rudyard Kipling called the Milford Sound Fjord in New Zealand. No wonder Kipling gave this place such a high-profile name. Everyone who’s been here understands - Milford Sound is really the real wonder. Amid the rugged, rocky coastlines and verdant forests glisten the waters of the bay, with an endless sky above. Seeing this magnificence creates a sense of detachment from the modern world and union with nature.",
+        "infoRU": "«Восьмое чудо света» — именно так назвал Джон Редьярд Киплинг фьорд Милфорд-Саунд в Новой Зеландии. Неудивительно, что Киплинг пожаловал этим местам столь громкое название. Каждый, кто бывал здесь, понимает — Милфорд-Саунд действительно самое настоящее чудо. Среди изрезанных высоких скалистых берегов и зеленых лесов сверкают воды залива, над которыми простирается бескрайний небесный свод. Когда видишь это великолепие, возникает полное ощущение оторванности от современного мира и единение с природой.",
+        "infoDE": "“Das achte Weltwunder”, so nannte John Rudyard Kipling den Fjord des Milford Sound in Neuseeland. Kein Wunder, dass Kipling diesem Ort einen so hochtrabenden Namen gab. Jeder, der schon einmal hier war, weiß, dass der Milford Sound das eigentliche Wunder ist. Das Wasser der Bucht glitzert zwischen den zerklüfteten, felsigen Ufern und grünen Wäldern, mit einem endlosen Himmel darüber. Es ist eine großartige Erfahrung, völlig entfernt von der modernen Welt und eins mit der Natur.",
+        "pictureURL": "./milford.jpeg"
     },
     {
-        titleEN: "Catlins",
-        titleRU: "Кэтлинс",
-        titleDE: "Katlins",
-        infoEN: "Kathleen’s is a hilly, forested and sparsely populated area, even by New Zealand standards. It is located in the eastern part of the Southlands. Much of this area is part of the forest park of the same name. The Catlins Coast attracts a huge number of marine mammals (such as New Zealand seals and Hooker sea lions) and birds, including endangered species. The most famous bird to be seen here is the yellow-eyed penguin.",
-        infoRU: "Кэтлинс — это холмистая, поросшая лесом и малонаселённая даже по новозеландским меркам территория. Она расположена в восточной части Южных земель. Большая часть этой территории относится к одноимённому лесному парку. Побережье Кэтлинс привлекает огромное количество морских млекопитающих (например, новозеландских тюленей и морских львов Хукера) и птиц, в том числе виды, находящиеся под угрозой уничтожения. Самая знаменитая птица, которую можно тут увидеть, — желтоглазый пингвин.",
-        infoDE: "Flatlands ist eine hügelige, bewaldete und selbst für neuseeländische Verhältnisse dünn besiedelte Gegend. Es befindet sich im östlichen Teil der Southlands. Ein Großteil des Gebietes ist Teil des gleichnamigen Waldparks. Die Catlins-Küste zieht eine große Anzahl von Meeressäugern (wie z.B. neuseeländische Robben und Hooker-Seelöwen) und Vögeln an, darunter auch bedrohte Arten. Der bekannteste Vogel, der hier zu sehen ist, ist der Gelbaugenpinguin.",
-        pictureURL: "./ketlins.jpeg"
+        "titleEN": "Catlins",
+        "titleRU": "Кэтлинс",
+        "titleDE": "Katlins",
+        "infoEN": "Kathleen’s is a hilly, forested and sparsely populated area, even by New Zealand standards. It is located in the eastern part of the Southlands. Much of this area is part of the forest park of the same name. The Catlins Coast attracts a huge number of marine mammals (such as New Zealand seals and Hooker sea lions) and birds, including endangered species. The most famous bird to be seen here is the yellow-eyed penguin.",
+        "infoRU": "Кэтлинс — это холмистая, поросшая лесом и малонаселённая даже по новозеландским меркам территория. Она расположена в восточной части Южных земель. Большая часть этой территории относится к одноимённому лесному парку. Побережье Кэтлинс привлекает огромное количество морских млекопитающих (например, новозеландских тюленей и морских львов Хукера) и птиц, в том числе виды, находящиеся под угрозой уничтожения. Самая знаменитая птица, которую можно тут увидеть, — желтоглазый пингвин.",
+        "infoDE": "Flatlands ist eine hügelige, bewaldete und selbst für neuseeländische Verhältnisse dünn besiedelte Gegend. Es befindet sich im östlichen Teil der Southlands. Ein Großteil des Gebietes ist Teil des gleichnamigen Waldparks. Die Catlins-Küste zieht eine große Anzahl von Meeressäugern (wie z.B. neuseeländische Robben und Hooker-Seelöwen) und Vögeln an, darunter auch bedrohte Arten. Der bekannteste Vogel, der hier zu sehen ist, ist der Gelbaugenpinguin.",
+        "pictureURL": "./ketlins.jpeg"
     },
     {
-        titleEN: "Franz Josef Glacier",
-        titleRU: "Ледник Франца-Иосифа",
-        titleDE: "Franz-Josef-Gletscher",
-        infoEN: "Each year the Franz Josef Glacier is visited by more than 250 thousand tourists. What is it so famous and what is so interesting to see in this place? The Franz Josef Glacier is located on the territory of Westland National Park, which belongs to the region of Te-Vahipunamu. By the way, this area is sacred to the local population - the Maori. It is also a UNESCO heritage site.",
-        infoRU: "Каждый год ледник Франца-Иосифа посещают более 250 тыс. туристов. Чем же он так знаменит, и что интересного можно увидеть в этом месте? Расположен ледник Франца-Иосифа на территории национального парка Вестленд, который относится к области Те-Вахипунаму. К слову, эта область священна для местного населения — маори. Кроме того, это объект наследия ЮНЕСКО.",
-        infoDE: "Jedes Jahr besuchen mehr als 250 Tausend Touristen den Franz Josef Gletscher. Wofür ist er so berühmt und was gibt es an diesem Ort so Interessantes zu sehen? Der Franz-Josef-Gletscher befindet sich im Westland-Nationalpark, der zur Region Te-Vahipunamu gehört. Übrigens ist dieses Gebiet für die einheimische Bevölkerung - die Maori - heilig. Es ist auch ein UNESCO-Weltkulturerbe.",
-        pictureURL: "./franz.jpeg"
+        "titleEN": "Franz Josef Glacier",
+        "titleRU": "Ледник Франца-Иосифа",
+        "titleDE": "Franz-Josef-Gletscher",
+        "infoEN": "Each year the Franz Josef Glacier is visited by more than 250 thousand tourists. What is it so famous and what is so interesting to see in this place? The Franz Josef Glacier is located on the territory of Westland National Park, which belongs to the region of Te-Vahipunamu. By the way, this area is sacred to the local population - the Maori. It is also a UNESCO heritage site.",
+        "infoRU": "Каждый год ледник Франца-Иосифа посещают более 250 тыс. туристов. Чем же он так знаменит, и что интересного можно увидеть в этом месте? Расположен ледник Франца-Иосифа на территории национального парка Вестленд, который относится к области Те-Вахипунаму. К слову, эта область священна для местного населения — маори. Кроме того, это объект наследия ЮНЕСКО.",
+        "infoDE": "Jedes Jahr besuchen mehr als 250 Tausend Touristen den Franz Josef Gletscher. Wofür ist er so berühmt und was gibt es an diesem Ort so Interessantes zu sehen? Der Franz-Josef-Gletscher befindet sich im Westland-Nationalpark, der zur Region Te-Vahipunamu gehört. Übrigens ist dieses Gebiet für die einheimische Bevölkerung - die Maori - heilig. Es ist auch ein UNESCO-Weltkulturerbe.",
+        "pictureURL": "./franz.jpeg"
     },
     {
-        titleEN: "Fjordland National Park",
-        titleRU: "Национальный парк «Фьордленд»",
-        titleDE: "Fiordland National Park",
-        infoEN: "Fjordland National Park was created by the New Zealand government in 1952 to preserve the island ecosystem, and in 1986 became a UNESCO World Heritage Site. And this is no accident, because the local places have preserved their pristine beauty and primordial nature. The greatest interest in “Fjordland” is its natural attractions: the fjords, mountain peaks, waterfalls and numerous rivers.",
-        infoRU: "Национальный парк «Страна Фьордов» был создан новозеландским правительством в 1952 г. с целью сохранения островной экосистемы, а в 1986 г. стал одним из объектов Всемирного наследия ЮНЕСКО. И это не случайно, ведь здешние места сохранили свою девственную красоту и первозданность. Наибольший интерес во «Фьордленде» вызывают его природные достопримечательности: фьорды, горные пики, водопады и многочисленные реки.",
-        infoDE: "Der Fjordland-Nationalpark wurde 1952 von der neuseeländischen Regierung gegründet, um das Ökosystem der Insel zu erhalten und wurde 1986 zum UNESCO-Weltnaturerbe erklärt. Und das ist kein Zufall, denn diese Orte haben sich ihre unberührte Schönheit und ursprüngliche Natur bewahrt. Das größte Interesse an “Fjordland” sind die natürlichen Attraktionen: die Fjorde, Berggipfel, Wasserfälle und zahlreiche Flüsse.",
-        pictureURL: "./fiordland.jpeg"
+        "titleEN": "Fjordland National Park",
+        "titleRU": "Национальный парк «Фьордленд»",
+        "titleDE": "Fiordland National Park",
+        "infoEN": "Fjordland National Park was created by the New Zealand government in 1952 to preserve the island ecosystem, and in 1986 became a UNESCO World Heritage Site. And this is no accident, because the local places have preserved their pristine beauty and primordial nature. The greatest interest in “Fjordland” is its natural 'attractions': the fjords, mountain peaks, waterfalls and numerous rivers.",
+        "infoRU": "Национальный парк «Страна Фьордов» был создан новозеландским правительством в 1952 г. с целью сохранения островной экосистемы, а в 1986 г. стал одним из объектов Всемирного наследия ЮНЕСКО. И это не случайно, ведь здешние места сохранили свою девственную красоту и первозданность. Наибольший интерес во «Фьордленде» вызывают его природные 'достопримечательности': фьорды, горные пики, водопады и многочисленные реки.",
+        "infoDE": "Der Fjordland-Nationalpark wurde 1952 von der neuseeländischen Regierung gegründet, um das Ökosystem der Insel zu erhalten und wurde 1986 zum UNESCO-Weltnaturerbe erklärt. Und das ist kein Zufall, denn diese Orte haben sich ihre unberührte Schönheit und ursprüngliche Natur bewahrt. Das größte Interesse an “Fjordland” sind die natürlichen 'Attraktionen',: die Fjorde, Berggipfel, Wasserfälle und zahlreiche Flüsse.",
+        "pictureURL": "./fiordland.jpeg"
     },
     {
-        titleEN: "Northland",
-        titleRU: "Нортленд",
-        titleDE: "Nordland",
-        infoEN: "This part of the North Island is steeped in bizarre myths and shrouded in a haze of history that was spawned by the amazing, extraordinarily magical Naintie Mill Beach. What to say about the legend not only of these places, but also the country - “Bay of Islands” (Bay of Islands), which is located near Paihia, combining 150 islets. The list of hundreds of unforgettable, pristine beaches on the Kauri Coast, which includes Coopers Beach, is endless.",
-        infoRU: "Эта часть Северного острова овеяна причудливыми мифами и окутана дымкой истории, которую породил удивительный, необыкновенно волшебный Найнти-Миль-Бич. Что уж говорить о легенде не только этих мест, но и страны — «Бухте островов» (Бей-оф-Айлендс), что находится около Паихиа, объединяющей 150 островков. Перечислять сотни чистейших, незабываемых пляжей «Побережья Каури», в число которых входит и лучший пляж Куперс-Бич, можно бесконечно.",
-        infoDE: "Dieser Teil der Nordinsel ist durchdrungen von bizarren Mythen und eingehüllt in einen Dunst der Geschichte, der durch den erstaunlichen, außergewöhnlich magischen Naintie Mill Beach entsteht. Ganz zu schweigen von der Legende nicht nur der Gegend, sondern des Landes, der Bucht der Inseln (Bay of Islands) bei Paixia, die 150 Eilande umfasst. Die Liste von Hunderten von unvergesslichen, unberührten Stränden an der Kauri-Küste, zu der auch Coopers Beach gehört, ist endlos.",
-        pictureURL: "./northland.jpeg"
+        "titleEN": "Northland",
+        "titleRU": "Нортленд",
+        "titleDE": "Nordland",
+        "infoEN": "This part of the North Island is steeped in bizarre myths and shrouded in a haze of history that was spawned by the amazing, extraordinarily magical Naintie Mill Beach. What to say about the legend not only of these places, but also the country - “Bay of Islands” (Bay of Islands), which is located near Paihia, combining 150 islets. The list of hundreds of unforgettable, pristine beaches on the Kauri Coast, which includes Coopers Beach, is endless.",
+        "infoRU": "Эта часть Северного острова овеяна причудливыми мифами и окутана дымкой истории, которую породил удивительный, необыкновенно волшебный Найнти-Миль-Бич. Что уж говорить о легенде не только этих мест, но и страны — «Бухте островов» (Бей-оф-Айлендс), что находится около Паихиа, объединяющей 150 островков. Перечислять сотни чистейших, незабываемых пляжей «Побережья Каури», в число которых входит и лучший пляж Куперс-Бич, можно бесконечно.",
+        "infoDE": "Dieser Teil der Nordinsel ist durchdrungen von bizarren Mythen und eingehüllt in einen Dunst der Geschichte, der durch den erstaunlichen, außergewöhnlich magischen Naintie Mill Beach entsteht. Ganz zu schweigen von der Legende nicht nur der Gegend, sondern des Landes, der Bucht der Inseln (Bay of Islands) bei Paixia, die 150 Eilande umfasst. Die Liste von Hunderten von unvergesslichen, unberührten Stränden an der Kauri-Küste, zu der auch Coopers Beach gehört, ist endlos.",
+        "pictureURL": "./northland.jpeg"
     },
     {
-        titleEN: "Wai-O-Tapu",
-        titleRU: "Уаи-О-Тапу",
-        titleDE: "Wai O Tapu",
-        infoEN: "Tourists from all over the world come to the Taupo Volcanic Zone on the North Island to see for themselves the hot springs, erupting geysers, and boiling mud springs. The most striking thing is that it all boils and bubbles, shimmering with incredibly rich colors. That’s why Ouai-O-Tapu is called a thermal miracle and a “Land of Geothermal Wonders”.",
-        infoRU: "Туристы со всего мира приезжают в вулканическую зону Таупо на Северном острове, чтобы своими глазами увидеть горячие источники, извергающиеся гейзеры и кипящие грязевые ключи. Самое поразительное, что все это кипит и бурлит, переливаясь невероятно насыщенными красками. Именно поэтому Уаи-О-Тапу называют термальным чудом и «Страной геотермальных чудес».",
-        infoDE: "Touristen aus aller Welt kommen in die vulkanische Zone von Taupo auf der Nordinsel, um die heißen Quellen, ausbrechenden Geysire und kochenden Schlammquellen mit eigenen Augen zu sehen. Am auffälligsten ist, dass alles kocht und sprudelt und in unglaublich intensiven Farben schimmert. Aus diesem Grund wird Ouai-O-Tapu auch als Thermalwunderland und “Land der geothermischen Wunder” bezeichnet.",
-        pictureURL: "./y_o_t.jpeg"
+        "titleEN": "Wai-O-Tapu",
+        "titleRU": "Уаи-О-Тапу",
+        "titleDE": "Wai O Tapu",
+        "infoEN": "Tourists from all over the world come to the Taupo Volcanic Zone on the North Island to see for themselves the hot springs, erupting geysers, and boiling mud springs. The most striking thing is that it all boils and bubbles, shimmering with incredibly rich colors. That’s why Ouai-O-Tapu is called a thermal miracle and a “Land of Geothermal Wonders”.",
+        "infoRU": "Туристы со всего мира приезжают в вулканическую зону Таупо на Северном острове, чтобы своими глазами увидеть горячие источники, извергающиеся гейзеры и кипящие грязевые ключи. Самое поразительное, что все это кипит и бурлит, переливаясь невероятно насыщенными красками. Именно поэтому Уаи-О-Тапу называют термальным чудом и «Страной геотермальных чудес».",
+        "infoDE": "Touristen aus aller Welt kommen in die vulkanische Zone von Taupo auf der Nordinsel, um die heißen Quellen, ausbrechenden Geysire und kochenden Schlammquellen mit eigenen Augen zu sehen. Am auffälligsten ist, dass alles kocht und sprudelt und in unglaublich intensiven Farben schimmert. Aus diesem Grund wird Ouai-O-Tapu auch als Thermalwunderland und “Land der geothermischen Wunder” bezeichnet.",
+        "pictureURL": "./y_o_t.jpeg"
     }
 ]

@@ -1,74 +1,74 @@
 [
     {
-        titleEN: "National Museum of Delhi",
-        titleRU: "Национальный музей Дели",
-        titleDE: "Nationalmuseum von Delhi",
-        infoEN: "First of all, in Delhi it is worth visiting the National Museum, which was opened in the middle of the last century, then it had about forty thousand exhibits, today the collection has increased several times. Here you can learn about the history of the formation of the Indian state, get acquainted with its cultural and natural wealth.",
-        infoRU: "Прежде всего, в Дели стоит посетить Национальный музей, который был открыт в середине прошлого века, тогда в нем насчитывалось около сорока тысяч экспонатов, на сегодняшний день коллекция увеличилась в несколько раз. Здесь можно узнать об истории становления индийского государства, ознакомиться с ее культурным и природным богатством.",
-        infoDE: "In Delhi lohnt es sich vor allem, das Nationalmuseum zu besuchen, das Mitte des letzten Jahrhunderts eröffnet wurde, damals hatte es etwa vierzigtausend Exponate, heute ist die Sammlung um ein Vielfaches gewachsen. Hier können Sie die Geschichte der Entstehung des indischen Staates kennenlernen, sich mit seinem kulturellen und natürlichen Reichtum vertraut machen.",
-        pictureURL: "./museum.jpeg"
+        "titleEN": "National Museum of Delhi",
+        "titleRU": "Национальный музей Дели",
+        "titleDE": "Nationalmuseum von Delhi",
+        "infoEN": "First of all, in Delhi it is worth visiting the National Museum, which was opened in the middle of the last century, then it had about forty thousand exhibits, today the collection has increased several times. Here you can learn about the history of the formation of the Indian state, get acquainted with its cultural and natural wealth.",
+        "infoRU": "Прежде всего, в Дели стоит посетить Национальный музей, который был открыт в середине прошлого века, тогда в нем насчитывалось около сорока тысяч экспонатов, на сегодняшний день коллекция увеличилась в несколько раз. Здесь можно узнать об истории становления индийского государства, ознакомиться с ее культурным и природным богатством.",
+        "infoDE": "In Delhi lohnt es sich vor allem, das Nationalmuseum zu besuchen, das Mitte des letzten Jahrhunderts eröffnet wurde, damals hatte es etwa vierzigtausend Exponate, heute ist die Sammlung um ein Vielfaches gewachsen. Hier können Sie die Geschichte der Entstehung des indischen Staates kennenlernen, sich mit seinem kulturellen und natürlichen Reichtum vertraut machen.",
+        "pictureURL": "./museum.jpeg"
     },
     {
-        titleEN: "Bollywood",
-        titleRU: "Болливуд",
-        titleDE: "Bollywood",
-        infoEN: "Bollywood is the eight letters that have become sacred to all lovers of Indian cinema. However, it is worth clarifying right away that Bollywood (home of the city of Bombay) is only a part of the giant called “the film industry of India”. Of the roughly 1,000 films produced in the country every year, only a little over 200 are made in this production center. The other two largest film industries are Tollywood, which produces Telugu films, and Kollywood, with their Tamil-language films.",
-        infoRU: "Болливуд — восемь букв, ставших священными для всех поклонников индийского кино. Однако стоит сразу уточнить, что Болливуд (место обитания город Бомбей) — лишь часть гиганта под названием «киноиндустрия Индии». Из порядка 1000 лент, что выпускаются в стране в течение года, лишь чуть более 200 приходится на этот производственный центр. Две другие крупнейшие киноиндустрии — это Толливуд, что выпускает фильмы на языке телугу, и Колливуд с их кино на тамильском языке.",
-        infoDE: "Bollywood ist ein Wort mit acht Buchstaben, das allen Liebhabern des indischen Kinos heilig geworden ist. Es sollte jedoch klargestellt werden, dass Bollywood (Heimat der Stadt Bombay) nur ein Teil der riesigen indischen Filmindustrie ist. Von etwa 1000 Filmen, die jedes Jahr im Land produziert werden, kommen nur etwas mehr als 200 aus diesem Produktionszentrum. Die anderen beiden größten Filmindustrien sind Tollywood, das Filme in der Sprache Telugu produziert, und Kollywood mit seinen Filmen in der Sprache Tamil.",
-        pictureURL: "./bollywood.jpeg"
+        "titleEN": "Bollywood",
+        "titleRU": "Болливуд",
+        "titleDE": "Bollywood",
+        "infoEN": "Bollywood is the eight letters that have become sacred to all lovers of Indian cinema. However, it is worth clarifying right away that Bollywood (home of the city of Bombay) is only a part of the giant called “the film industry of India”. Of the roughly 1,000 films produced in the country every year, only a little over 200 are made in this production center. The other two largest film industries are Tollywood, which produces Telugu films, and Kollywood, with their Tamil-language films.",
+        "infoRU": "Болливуд — восемь букв, ставших священными для всех поклонников индийского кино. Однако стоит сразу уточнить, что Болливуд (место обитания город Бомбей) — лишь часть гиганта под названием «киноиндустрия Индии». Из порядка 1000 лент, что выпускаются в стране в течение года, лишь чуть более 200 приходится на этот производственный центр. Две другие крупнейшие киноиндустрии — это Толливуд, что выпускает фильмы на языке телугу, и Колливуд с их кино на тамильском языке.",
+        "infoDE": "Bollywood ist ein Wort mit acht Buchstaben, das allen Liebhabern des indischen Kinos heilig geworden ist. Es sollte jedoch klargestellt werden, dass Bollywood (Heimat der Stadt Bombay) nur ein Teil der riesigen indischen Filmindustrie ist. Von etwa 1000 Filmen, die jedes Jahr im Land produziert werden, kommen nur etwas mehr als 200 aus diesem Produktionszentrum. Die anderen beiden größten Filmindustrien sind Tollywood, das Filme in der Sprache Telugu produziert, und Kollywood mit seinen Filmen in der Sprache Tamil.",
+        "pictureURL": "./bollywood.jpeg"
     },
     {
-        titleEN: "Kanheri Caves.",
-        titleRU: "Пещеры Канхери",
-        titleDE: "Kanheri-Höhlen.",
-        infoEN: "Kanheri Temple and Monastery Complex (Kanhagiri, Krishnagiri, Kanhasela) is a unique monument of ancient Indian architecture. In the 3rd century BC, Buddhists carved out caves in a volcanic rock, where they lived and prayed, and over the centuries they expanded and improved them.",
-        infoRU: "Храмово-монастырский комплекс Канхери (Канхагири, Кришнагири, Канхасела) — уникальный памятник древней индийской архитектуры. В 3 веке до н. э. в вулканической скале буддисты вырубили пещеры, в которых жили и молились, а в течение последующих веков они их расширяли и благоустраивали.",
-        infoDE: "Der Kanheri-Tempel- und Klosterkomplex (Kanhagiri, Krishnagiri, Kanhasela) ist ein einzigartiges Monument der altindischen Architektur. Im 3. Jahrhundert v. Chr. gruben die Buddhisten Höhlen in das Vulkangestein, in denen sie lebten und beteten, und in den folgenden Jahrhunderten erweiterten und verschönerten sie diese.",
-        pictureURL: "./kanheri.jpeg"
+        "titleEN": "Kanheri Caves.",
+        "titleRU": "Пещеры Канхери",
+        "titleDE": "Kanheri-Höhlen.",
+        "infoEN": "Kanheri Temple and Monastery Complex (Kanhagiri, Krishnagiri, Kanhasela) is a unique monument of ancient Indian architecture. In the 3rd century BC, Buddhists carved out caves in a volcanic rock, where they lived and prayed, and over the centuries they expanded and improved them.",
+        "infoRU": "Храмово-монастырский комплекс Канхери (Канхагири, Кришнагири, Канхасела) — уникальный памятник древней индийской архитектуры. В 3 веке до н. э. в вулканической скале буддисты вырубили пещеры, в которых жили и молились, а в течение последующих веков они их расширяли и благоустраивали.",
+        "infoDE": "Der Kanheri-Tempel- und Klosterkomplex (Kanhagiri, Krishnagiri, Kanhasela) ist ein einzigartiges Monument der altindischen Architektur. Im 3. Jahrhundert v. Chr. gruben die Buddhisten Höhlen in das Vulkangestein, in denen sie lebten und beteten, und in den folgenden Jahrhunderten erweiterten und verschönerten sie diese.",
+        "pictureURL": "./kanheri.jpeg"
     },
     {
-        titleEN: "Dudhsagar",
-        titleRU: "Дудхсагар",
-        titleDE: "Dudhsagar",
-        infoEN: "Dudhsagar is one of India’s largest waterfalls and is located in the foothills of the Western Ghats, 60 kilometers from Panaji, 100 kilometers from Vagator and 120 kilometers from Arambol. The water extravaganza, pristine rainforest and total immersion in the unfolding landscapes right here and now will not leave anyone indifferent.",
-        infoRU: "Дудхсагар (Dudhsagar) — один из крупнейших водопадов Индии, который находится в предгорье Западных Гат, в 60 километрах от Панаджи, 100 километрах от Вагатора и 120 километрах от Арамболя. Водяная феерия, девственный тропический лес и полное погружение в разворачивающиеся прямо здесь и сейчас ландшафты никого не оставят равнодушным.",
-        infoDE: "Dudhsagar ist einer der größten Wasserfälle Indiens, der in den Ausläufern der Western Ghats liegt, 60 km von Panaji, 100 km von Vagator und 120 km von Arambol entfernt. Die wasserreiche Extravaganz, der unberührte Regenwald und das völlige Eintauchen in die sich entfaltenden Landschaften im Hier und Jetzt werden niemanden gleichgültig lassen.",
-        pictureURL: "./dudhsagar.jpeg"
+        "titleEN": "Dudhsagar",
+        "titleRU": "Дудхсагар",
+        "titleDE": "Dudhsagar",
+        "infoEN": "Dudhsagar is one of India’s largest waterfalls and is located in the foothills of the Western Ghats, 60 kilometers from Panaji, 100 kilometers from Vagator and 120 kilometers from Arambol. The water extravaganza, pristine rainforest and total immersion in the unfolding landscapes right here and now will not leave anyone indifferent.",
+        "infoRU": "Дудхсагар (Dudhsagar) — один из крупнейших водопадов Индии, который находится в предгорье Западных Гат, в 60 километрах от Панаджи, 100 километрах от Вагатора и 120 километрах от Арамболя. Водяная феерия, девственный тропический лес и полное погружение в разворачивающиеся прямо здесь и сейчас ландшафты никого не оставят равнодушным.",
+        "infoDE": "Dudhsagar ist einer der größten Wasserfälle Indiens, der in den Ausläufern der Western Ghats liegt, 60 km von Panaji, 100 km von Vagator und 120 km von Arambol entfernt. Die wasserreiche Extravaganz, der unberührte Regenwald und das völlige Eintauchen in die sich entfaltenden Landschaften im Hier und Jetzt werden niemanden gleichgültig lassen.",
+        "pictureURL": "./dudhsagar.jpeg"
     },
     {
-        titleEN: "Qutub Minar",
-        titleRU: "Кутуб-Минар",
-        titleDE: "Qutub Minar",
-        infoEN: "The world’s tallest brick minaret is the Qutub Minar in Delhi. Construction of the minaret began in 1199, to commemorate the victory over the Rajput ruler of Delhi. True, the first of the Delhi sultans erected only the first floor of the structure, the subsequent sultans completed four more floors of the minaret, so that by 1351 the 73-meter high structure was finally built.",
-        infoRU: "Самый высокий в мире минарет, построенный из кирпича — это Кутуб-Минар в Дели. Строительство минарета началось в 1199 году, в честь ознаменования победы над раджпутским правителем Дели. Правда, первый из делийских султанов возвел только первый этаж сооружения, последующие султаны достроили еще четыре этажа минарета, так что к 1351 году 73 метровое сооружение было наконец построено.",
-        infoDE: "Das höchste Backsteinminarett der Welt ist das Qutub Minar in Delhi. Mit dem Bau des Minaretts wurde 1199 begonnen, um an den Sieg über den Rajputen-Herrscher von Delhi zu erinnern. Der erste der Sultane von Delhi errichtete jedoch nur die erste Etage des Bauwerks, die nachfolgenden Sultane fügten dem Minarett vier weitere Etagen hinzu, so dass 1351 der 73 Meter hohe Bau schließlich vollendet war.",
-        pictureURL: "./kutub.jpeg"
+        "titleEN": "Qutub Minar",
+        "titleRU": "Кутуб-Минар",
+        "titleDE": "Qutub Minar",
+        "infoEN": "The world’s tallest brick minaret is the Qutub Minar in Delhi. Construction of the minaret began in 1199, to commemorate the victory over the Rajput ruler of Delhi. True, the first of the Delhi sultans erected only the first floor of the structure, the subsequent sultans completed four more floors of the minaret, so that by 1351 the 73-meter high structure was finally built.",
+        "infoRU": "Самый высокий в мире минарет, построенный из кирпича — это Кутуб-Минар в Дели. Строительство минарета началось в 1199 году, в честь ознаменования победы над раджпутским правителем Дели. Правда, первый из делийских султанов возвел только первый этаж сооружения, последующие султаны достроили еще четыре этажа минарета, так что к 1351 году 73 метровое сооружение было наконец построено.",
+        "infoDE": "Das höchste Backsteinminarett der Welt ist das Qutub Minar in Delhi. Mit dem Bau des Minaretts wurde 1199 begonnen, um an den Sieg über den Rajputen-Herrscher von Delhi zu erinnern. Der erste der Sultane von Delhi errichtete jedoch nur die erste Etage des Bauwerks, die nachfolgenden Sultane fügten dem Minarett vier weitere Etagen hinzu, so dass 1351 der 73 Meter hohe Bau schließlich vollendet war.",
+        "pictureURL": "./kutub.jpeg"
     },
     {
-        titleEN: "Humayun’s Tomb",
-        titleRU: "Гробница Хумаюна",
-        titleDE: "Humayuns Grabmal",
-        infoEN: "The tomb of Humayun - amazing beauty mausoleum of one of the Great Moguls, Padishah Humayun, located in the heart of the country - Delhi. The tomb was commissioned by the widow of Padishah Hamida Banu Begum in 1562. (For reference: her husband, Humayun - the second emperor of the Mughal dynasty, gave all his life for the annexation of North India to his possessions.) The construction lasted 8 years, the architects of the project are considered to be Sayyid Muhammad and his father Mirak Giyathuddin.",
-        infoRU: "Гробница Хумаюна — удивительной красоты мавзолей одного из Великих Моголов, падишаха Хумаюна, расположенный в самом сердце страны — Дели. Усыпальница была построена по заказу вдовы падишаха Хамиды Бану Бегум в 1562 году. (Для справки: ее супруг, Хумаюн — второй император из династии Великих Моголов, отдал всю жизнь на присоединение Северной Индии к своим владениям.) Строительство длилось 8 лет, зодчими проекта считаются Саид Мухаммад и его отец Мирак Гиятхуддин.",
-        infoDE: "Das Grab von Humayun - erstaunliche Schönheit Mausoleum eines der großen Mogule, Padishah Humayun, im Herzen des Landes gelegen - Delhi. Das Grabmal wurde 1562 von der Witwe des Padischahs Hamida Banu Begum in Auftrag gegeben. (Zur Information: ihr Ehemann, Humayun - der zweite Kaiser aus der Mogul-Dynastie, gab sein ganzes Leben für die Annexion des nördlichen Indiens zu seinem Besitz). Der Bau dauerte 8 Jahre, als Architekten des Projekts gelten Syed Muhammad und sein Vater Mirak Giyathuddin.",
-        pictureURL: "./humayon.jpeg"
+        "titleEN": "Humayun’s Tomb",
+        "titleRU": "Гробница Хумаюна",
+        "titleDE": "Humayuns Grabmal",
+        "infoEN": "The tomb of Humayun - amazing beauty mausoleum of one of the Great Moguls, Padishah Humayun, located in the heart of the country - Delhi. The tomb was commissioned by the widow of Padishah Hamida Banu Begum in 1562. (For reference: her husband, Humayun - the second emperor of the Mughal dynasty, gave all his life for the annexation of North India to his possessions.) The construction lasted 8 years, the architects of the project are considered to be Sayyid Muhammad and his father Mirak Giyathuddin.",
+        "infoRU": "Гробница Хумаюна — удивительной красоты мавзолей одного из Великих Моголов, падишаха Хумаюна, расположенный в самом сердце страны — Дели. Усыпальница была построена по заказу вдовы падишаха Хамиды Бану Бегум в 1562 году. (Для справки: ее супруг, Хумаюн — второй император из династии Великих Моголов, отдал всю жизнь на присоединение Северной Индии к своим владениям.) Строительство длилось 8 лет, зодчими проекта считаются Саид Мухаммад и его отец Мирак Гиятхуддин.",
+        "infoDE": "Das Grab von Humayun - erstaunliche Schönheit Mausoleum eines der großen Mogule, Padishah Humayun, im Herzen des Landes gelegen - Delhi. Das Grabmal wurde 1562 von der Witwe des Padischahs Hamida Banu Begum in Auftrag gegeben. (Zur Information: ihr Ehemann, Humayun - der zweite Kaiser aus der Mogul-Dynastie, gab sein ganzes Leben für die Annexion des nördlichen Indiens zu seinem Besitz). Der Bau dauerte 8 Jahre, als Architekten des Projekts gelten Syed Muhammad und sein Vater Mirak Giyathuddin.",
+        "pictureURL": "./humayon.jpeg"
     },
     {
-        titleEN: "Chhatrapati Shivaji Station",
-        titleRU: "Вокзал Чхатрапати-Шиваджи",
-        titleDE: "Chhatrapati Shivaji-Bahnhof",
-        infoEN: "Chhatrapati Shivaji Station is deservedly considered not just a railway station, but a full-fledged landmark of Mumbai. The building, designed by British architect Frederick William Stevens, was built when India was still a British colony, so from its opening in 1888 until 1996 the station was named after the Queen of England - Victoria-Terminus. In 2004, the landmark was added to the UNESCO World Heritage List.",
-        infoRU: "Вокзал Чхатрапати-Шиваджи заслуженно считается не просто железнодорожной станцией, а полноправной достопримечательностью Мумбая. Здание, спроектированное британским архитектором Фредериком Уильямом Стивенсом, строилось, когда Индия еще была колонией Великобритании, поэтому с момента открытия в 1888 г. вплоть до 1996 г. вокзал назывался в честь королевы Англии — Виктория-Терминус. В 2004 г. достопримечательность пополнила Список всемирного наследия ЮНЕСКО.",
-        infoDE: "Die Chhatrapati Shivaji Station gilt zu Recht nicht nur als Bahnhof, sondern als ein vollwertiges Wahrzeichen von Mumbai. Das vom britischen Architekten Frederick William Stevens entworfene Gebäude stammt aus der Zeit, als Indien eine britische Kolonie war. Von seiner Einweihung 1888 bis 1996 trug es den Namen der englischen Königin - Victoria Terminus. Im Jahr 2004 wurde das Wahrzeichen in die Liste des UNESCO-Welterbes aufgenommen.",
-        pictureURL: "./railway.jpeg"
+        "titleEN": "Chhatrapati Shivaji Station",
+        "titleRU": "Вокзал Чхатрапати-Шиваджи",
+        "titleDE": "Chhatrapati Shivaji-Bahnhof",
+        "infoEN": "Chhatrapati Shivaji Station is deservedly considered not just a railway station, but a full-fledged landmark of Mumbai. The building, designed by British architect Frederick William Stevens, was built when India was still a British colony, so from its opening in 1888 until 1996 the station was named after the Queen of England - Victoria-Terminus. In 2004, the landmark was added to the UNESCO World Heritage List.",
+        "infoRU": "Вокзал Чхатрапати-Шиваджи заслуженно считается не просто железнодорожной станцией, а полноправной достопримечательностью Мумбая. Здание, спроектированное британским архитектором Фредериком Уильямом Стивенсом, строилось, когда Индия еще была колонией Великобритании, поэтому с момента открытия в 1888 г. вплоть до 1996 г. вокзал назывался в честь королевы Англии — Виктория-Терминус. В 2004 г. достопримечательность пополнила Список всемирного наследия ЮНЕСКО.",
+        "infoDE": "Die Chhatrapati Shivaji Station gilt zu Recht nicht nur als Bahnhof, sondern als ein vollwertiges Wahrzeichen von Mumbai. Das vom britischen Architekten Frederick William Stevens entworfene Gebäude stammt aus der Zeit, als Indien eine britische Kolonie war. Von seiner Einweihung 1888 bis 1996 trug es den Namen der englischen Königin - Victoria Terminus. Im Jahr 2004 wurde das Wahrzeichen in die Liste des UNESCO-Welterbes aufgenommen.",
+        "pictureURL": "./railway.jpeg"
     },
     {
-        titleEN: "St. Catherine’s Cathedral in Old Goa",
-        titleRU: "Собор Святой Екатерины в Старом Гоа",
-        titleDE: "Kathedrale St. Catherine in Alt-Goa",
-        infoEN: "Old Goa is one of the most popular destinations among tourists. There are many cathedrals and churches that are filled with travelers every day. The center of religious hangouts is St. Catherine’s Cathedral. It is the largest Christian building in Asia. It is full of important elements: bells, altar, font. Catholics love the design of the cathedral, its style.",
-        infoRU: "Старый Гоа — один из самых популярных маршрутов среди туристов. Здесь много соборов и церквей, которые каждый день заполнены путешественниками. Центр религиозных тусовок — Собор Святой Екатерины. Это самое большое христианское здание в Азии. Здесь полный набор важных элементов: колокола, алтарь, купель. Католикам очень нравится дизайн собора, его стиль.",
-        infoDE: "Old Goa ist eines der beliebtesten Reiseziele bei Touristen. Es gibt viele Kathedralen und Kirchen, die jeden Tag mit Reisenden gefüllt sind. Das Zentrum der religiösen Treffpunkte ist die Kathedrale St. Catherine’s. Es ist das größte christliche Gebäude in Asien. Es ist voll von wichtigen Elementen: Glocken, Altar, Taufbecken. Die Katholiken mögen das Design der Kathedrale, ihren Stil, sehr.",
-        pictureURL: "./st_ekat.jpeg"
+        "titleEN": "St. Catherine’s Cathedral in Old Goa",
+        "titleRU": "Собор Святой Екатерины в Старом Гоа",
+        "titleDE": "Kathedrale St. Catherine in Alt-Goa",
+        "infoEN": "Old Goa is one of the most popular destinations among tourists. There are many cathedrals and churches that are filled with travelers every day. The center of religious hangouts is St. Catherine’s Cathedral. It is the largest Christian building in Asia. It is full of important elements: bells, altar, font. Catholics love the design of the cathedral, its style.",
+        "infoRU": "Старый Гоа — один из самых популярных маршрутов среди туристов. Здесь много соборов и церквей, которые каждый день заполнены путешественниками. Центр религиозных тусовок — Собор Святой Екатерины. Это самое большое христианское здание в Азии. Здесь полный набор важных элементов: колокола, алтарь, купель. Католикам очень нравится дизайн собора, его стиль.",
+        "infoDE": "Old Goa ist eines der beliebtesten Reiseziele bei Touristen. Es gibt viele Kathedralen und Kirchen, die jeden Tag mit Reisenden gefüllt sind. Das Zentrum der religiösen Treffpunkte ist die Kathedrale St. Catherine’s. Es ist das größte christliche Gebäude in Asien. Es ist voll von wichtigen Elementen: Glocken, Altar, Taufbecken. Die Katholiken mögen das Design der Kathedrale, ihren Stil, sehr.",
+        "pictureURL": "./st_ekat.jpeg"
     }
 ]
