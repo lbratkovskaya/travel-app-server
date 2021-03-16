@@ -1,0 +1,74 @@
+[
+    {
+        "titleEN": "Mount Fuji",
+        "titleRU": "Гора Фудзи",
+        "titleDE": "Ipanema Strand",
+        "infoEN": "The symbol of the country of the rising sun is the sacred Mount Fuji. What to visit in Japan outside of the capital? You should definitely see the young volcano Mount Fuji in the vicinity. The Japanese believe that the mountain was created out of chaos by the gods. It is the most recognizable landmark of the country. The majestic mountain peak rises to the heavens to a height of 3,776 meters. Many pilgrims make the ascent to Mount Fuji.",
+        "infoRU": "Символ страны восходящего солнца – священная гора Фудзи. Что посетить в Японии за пределами столицы? Обязательно стоит увидеть вблизи молодой вулкан Фудзияма. Японцы считают, что гора богами сотворена из хаоса. Это самая узнаваемая достопримечательность страны. Величественный горный пик возносится к небесам на высоту 3776 метров. Многие пилигримы осуществляют подъем на гору Фудзи.",
+        "infoDE": "Der Strand von Ipanema liegt in den brasilianischen Tropen im berühmten Rio de Janeiro. Es ist nicht weit vom beliebten Copacabana-Strand entfernt. Ipanema erstreckt sich über eine lange Strecke entlang der Küste und ist über die gesamte Länge mit einem wunderschönen Mosaiksteg geschmückt. Entlang des Bürgersteigs flanieren ständig fröhliche Bewohner und Besucher. Es gibt wunderbare Ausblicke auf Ipanema aus allen Richtungen - die Gebirgskette, die als die “Zwei Brüder” bekannt ist, der Archipel der Cagarras, der nur 5 km vom Strand entfernt ist, und die Gegend um Ipanema ist berühmt für ihre modischen Hotels, Restaurants und Boutiquen.",
+        "pictureURL": "./fuji.jpeg"
+    },
+    {
+        "titleEN": "Sagano Bamboo Forest",
+        "titleRU": "Бамбуковый лес Сагано",
+        "titleDE": "Sagano-Bambuswald",
+        "infoEN": "A picturesque bamboo grove of thousands of tall evergreen trees is a trademark of Kyoto Prefecture. Amidst the urban infrastructure, it is amazing to see such a green wonderland. The smooth tree trunks of the Sagano Forest cover an area of 16 square kilometers. The protected area of the Arashiyama tourist area is under UNESCO protection.",
+        "infoRU": "Живописная бамбуковая роща из тысяч высоких вечнозеленых деревьев – визитная карточка префектуры Киото. Среди городской инфраструктуры удивительно видеть такое зеленое чудо. Ровные стволы деревьев леса Сагано занимают территорию в 16 квадратных километров. Заповедная зона туристического района Арасияма находится под защитой ЮНЕСКО.",
+        "infoDE": "Ein malerischer Bambushain mit Tausenden von hohen immergrünen Bäumen ist ein Markenzeichen der Präfektur Kyoto. Inmitten der städtischen Infrastruktur ist es erstaunlich, ein so grünes Wunderland zu sehen. Der Sagano-Wald erstreckt sich über 16 Quadratkilometer mit flachen Baumstämmen. Das Naturschutzgebiet des Arashiyama-Tourismusgebietes steht unter UNESCO-Schutz.",
+        "pictureURL": "./sagano.jpeg"
+    },
+    {
+        "titleEN": "Snow monkeys in hot springs",
+        "titleRU": "Снежные обезьяны в горячих источниках",
+        "titleDE": "Schneeäffchen in heißen Quellen",
+        "infoEN": "In the Yokoyu River Valley, 850 meters above sea level, there is a unique park of snow monkeys called Jigokudani, famous among travelers. Japanese macaques exhibit original behavior. The area is covered with snow for a third of the year, but thanks to the presence of hot springs, snow monkeys can live in Nagano. They bask in pools like hot tubs. Jigokudani Park officially opened in 1964.",
+        "infoRU": "В долине реки Ёкою на высоте 850 метров над уровнем море расположен уникальный парк снежных обезьян Джигокудани, известный среди путешественников. Японские макаки демонстрируют оригинальное поведение. Третью часть года эта местность покрыта снегами, но, благодаря наличию горячих источников, снежные обезьяны могут жить в Нагано. Они нежатся в бассейнах, как в горячих ваннах. Официальное открытие парка Джигокудани состоялось в 1964 году.",
+        "infoDE": "Jigokudani liegt im Tal des Yokoyu-Flusses auf einer Höhe von 850 Metern über dem Meeresspiegel und ist unter Reisenden als einzigartiger Schneeaffenpark bekannt. Japanische Makaken zeigen ein originelles Verhalten. Die Gegend ist ein Drittel des Jahres mit Schnee bedeckt, aber dank der heißen Quellen können Schneeaffen in Nagano leben. Sie sonnen sich in den Becken wie in einem Whirlpool. Der Jigokudani-Park wurde 1964 offiziell eröffnet.",
+        "pictureURL": "./snow_monkeys_nagano.jpeg"
+    },
+    {
+        "titleEN": "Golden Pavilion",
+        "titleRU": "Золотой павильон",
+        "titleDE": "Goldener Pavillon",
+        "infoEN": "The crown jewel of Japan’s architectural collection is considered the Golden Pavilion - Kinkakuji. The palace, covered in gold, is strikingly beautiful and luxurious. It cannot be matched by any other landmark in Japan. The beautiful palace was built in 1397. Its walls sparkle in the sun with unfathomable beauty. Kinkakuji is part of the Rokuonji Temple complex and is considered the finest example of national culture",
+        "infoRU": "Жемчужиной архитектурной коллекции Японии считается Золотой павильон – Кинкакудзи. Дворец, покрытый золотом, поражает красотой и роскошью. С ним не могут сравниться другие достопримечательности Японии. Прекрасный дворец был построен в 1397 году. Его стены сверкают на солнце непостижимой красотой. Кинкакудзи входит в храмовый комплекс Рокуондзи и считается лучшим образцом национальной культуры",
+        "infoDE": "Als Kronjuwel der architektonischen Sammlung Japans gilt der Goldene Pavillon - Kinkakuji. Der mit Gold überzogene Palast ist atemberaubend schön und luxuriös. Es kann von keinem anderen Wahrzeichen in Japan übertroffen werden. Der schöne Palast wurde 1397 erbaut. Seine Wände funkeln in der Sonne mit unergründlicher Schönheit. Der Kinkakuji ist Teil des Rokuonji-Tempelkomplexes und gilt als schönstes Beispiel der japanischen Nationalkultur.",
+        "pictureURL": "./golden_pavilion.jpeg"
+    },
+    {
+        "titleEN": "Imperial Palace",
+        "titleRU": "Императорский дворец",
+        "titleDE": "Kaiserpalast",
+        "infoEN": "What can be more luxurious and rich than the Imperial Palace? The sights in Japan are breathtaking, but the Imperial Palace is incomparable. It is located in the park area of Tokyo, with the palace buildings occupying a total area of 740 hectares. Next to the Imperial Palace are the country’s government offices. But the modern neighborhood in no way disturbs the beautiful palace architecture.",
+        "infoRU": "Что может быть роскошнее и богаче Императорского дворца? Достопримечательности Японии поражают воображение, но Императорский Замок невозможно ни с чем сравнить. Он расположен в парковой зоне Токио, в целом дворцовые постройки занимают территорию в 740 гектаров. Рядом с Императорским дворцом расположены правительственные учреждения страны. Но современное соседство нисколько не нарушает прекрасную дворцовую архитектуру.",
+        "infoDE": "Was kann üppiger und prächtiger sein als die Kaiserpfalz. Die Sehenswürdigkeiten in Japan sind atemberaubend, aber der Kaiserpalast ist unvergleichlich. Er befindet sich in einer Parklandschaft von Tokio und die Palastgebäude erstrecken sich über eine Gesamtfläche von 740 Hektar. Neben dem Kaiserpalast befinden sich die Regierungsbüros des Landes. Doch die moderne Nachbarschaft stört die schöne Palastarchitektur in keiner Weise.",
+        "pictureURL": "./imperial_palace.jpeg"
+    },
+    {
+        "titleEN": "Arashiyama",
+        "titleRU": "Арасияма",
+        "titleDE": "Arashiyama",
+        "infoEN": "Mount Arashiyama on the outskirts of Kyoto has long been famous for the beauty of its scenery, it was here in the 10th century that the tradition of admiring the blossoming spring sakura and red autumn maples originated. These days crowds of Japanese and tourists roam the paths, but in summer there are few people here, and you can fully enjoy the charm of the surrounding nature. Additional bonuses are the scattered Buddhist and Shinto temples with beautiful festive ceremonies and the exotic customs of the inhabitants. The local landscapes are recognized as national treasures and are specially protected by the state.",
+        "infoRU": "Гора Арасияма на окраине Киото издавна знаменита красотой своих пейзажей, именно здесь в 10 веке зародились традиции любования цветущей весенней сакурой и красными осенними кленами. В эти дни по тропинкам бродят толпы японцев и туристов, но летом здесь мало людей, и можно в полной мере насладиться прелестью окружающей природы. Дополнительные бонусы — разбросанные по окрестностям буддистские и синтоистские храмы с красивыми праздничными церемониями и экзотические обычаи жителей. Местные ландшафты признаны национальным достоянием и особо охраняются государством.",
+        "infoDE": "Der Berg Arashiyama am Stadtrand von Kyoto ist seit langem für die Schönheit seiner Landschaft berühmt, und hier entstand im 10. Jahrhundert die Tradition, die blühende Frühlings-Sakura und die roten Herbst-Ahorne zu betrachten. In diesen Tagen streifen Massen von Japanern und Touristen über die Wege, aber im Sommer sind hier nur wenige Menschen und man kann die Schönheit der umliegenden Natur voll genießen. Ein zusätzlicher Bonus sind die verstreuten buddhistischen und shintoistischen Tempel mit schönen festlichen Zeremonien und die exotischen Bräuche der Einwohner. Die hiesigen Landschaften sind als nationales Kulturgut anerkannt und stehen unter besonderem Schutz des Staates.",
+        "pictureURL": "./aracsiama.jpeg"
+    },
+    {
+        "titleEN": "Tokyo Skytree Tower",
+        "titleRU": "Башня Tokyo Skytree",
+        "titleDE": "Tokio Skytree Turm",
+        "infoEN": "It is no coincidence that the height of the Tokyo Skytree is 634 meters: the Japanese wanted to emphasize the symbolism of this structure. The digits 6-3-4 in old Japanese sound like “mu”-“sa”-“si” - in the 18th century that was the name of the province where present-day Tokyo stands. To this day, the Tokyo Skytree remains the tallest TV tower in the world and the second tallest after the Burj Khalifa. Its entrance is on the 4th floor of the Tokyo Solamachi Mall, which has over 300 stores, restaurants, cafes, a planetarium and an aquarium.",
+        "infoRU": "Неслучайно высота телебашни Tokyo Skytree, «Токийского небесного дерева», равна 634 м: японцы хотели подчеркнуть символичность этого сооружения. Цифры 6-3-4 звучат на старом японском как «му»-«са»-«си» — в 18 веке так называлась провинция, где ныне стоит современный Токио. По сей день Tokyo Skytree остается самой высокой телебашней в мире и второй по высоте после Бурдж-Халифа. Вход в нее находится на 4-м этаже молла Tokyo Solamachi, где работают более 300 магазинов, рестораны, кафе, планетарий и аквариум.",
+        "infoDE": "Es ist kein Zufall, dass die Höhe des Tokyo Skytree 634 m beträgt: Die Japaner wollten damit die Symbolik dieses Bauwerks unterstreichen. Die Zahlen 6-3-4 klingen im alten Japanisch wie “mu”-“sa”-“si” - so wurde im 18. Jahrhundert die Provinz benannt, in der das heutige Tokio liegt. Bis heute ist der Tokyo Skytree der höchste Fernsehturm der Welt und der zweithöchste nach dem Burj Khalifa. Der Eingang befindet sich in der 4. Etage der Tokyo Solamachi Mall mit über 300 Geschäften, Restaurants, Cafés, einem Planetarium und einem Aquarium.",
+        "pictureURL": "./tower.jpeg"
+    },
+    {
+        "titleEN": "Aokigahara Suicide Forest",
+        "titleRU": "Лес самоубийц Аокигахара",
+        "titleDE": "Aokigahara-Selbstmordwald",
+        "infoEN": "Aokigahara National Park, aka Suicide Forest, is located at the foot of Mount Fuji, 100 km from Tokyo. Its thicket has witnessed many tragedies, up until the 20th century, neighborhood residents brought old people here and left them to starve to death. And not out of spite, but simply because they could not afford the luxury of feeding extra mouths. Books and films have been written about this terrible custom, and local folklore is full of tales of ghosts roaming the forest. But it’s not to them that Aokigahara owes its creepy fame, and it’s the place where up to 100 people end their lives each year. Most are clerks who have lost their jobs and with them their social status and means of livelihood.",
+        "infoRU": "Национальный парк «Аокигахара», он же «лес самоубийц», находится у подножия горы Фудзи в 100 км от Токио. Его чаща была свидетельницей множества трагедий, вплоть до 20 века окрестные жители приносили сюда стариков и оставляли умирать от голода. И не по злобе, а просто потому что не могли позволить себе роскошь кормить лишние рты. Об этом страшном обычае написаны книги и сняты фильмы, местный фольклор полон рассказов о бродящих по лесу призраках. Но не им «Аокигахара» обязан жуткой славой, а тому, что здесь ежегодно сводят счеты с жизнью до 100 человек. Большинство — клерки, потерявшие работу, а вместе с ней социальный статус и средства к существованию.",
+        "infoDE": "Der Aokigahara-Nationalpark alias Suicide Forest liegt am Fuße des Mount Fuji, 100 km von Tokio entfernt. Der Park war bis ins 20. Jahrhundert Zeuge vieler Tragödien, als die Dorfbewohner ihre Ältesten hierher brachten und sie dem Hungertod überließen. Und das nicht aus Boshaftigkeit, sondern einfach, weil sie sich den Luxus nicht leisten konnten, zusätzliche Mäuler zu stopfen. Über diesen schrecklichen Brauch wurden Bücher geschrieben und Filme gedreht, und die lokale Folklore ist voll von Geschichten über Geister, die den Wald durchstreifen. Aber nicht ihnen verdankt Aokigahara seine erschreckende Berühmtheit, bis zu 100 Menschen pro Jahr beenden hier ihr Leben. Die meisten sind Angestellte, die ihre Arbeit und damit ihren sozialen Status und ihren Lebensunterhalt verloren haben.",
+        "pictureURL": "./aokigahara.jpeg"
+    }
+]
