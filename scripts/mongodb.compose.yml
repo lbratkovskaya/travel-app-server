@@ -1,0 +1,16 @@
+version: '3.7'
+services:
+  mongodb:
+    container_name: 'travel-app-db-container'
+    image: mongo:latest
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: rootpassword
+      MONGO_INITDB_DATABASE: devdb
+    ports:
+      - 27017:27017
+    volumes:
+      - ./mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+      - mongodb_travel_app_container:/data/db
+volumes:
+  mongodb_travel_app_container:
