@@ -33,23 +33,23 @@ reviewsRouter.post(
       };
       const reviews: Array<IReview> = await Reviews.find(filter);
       if (!reviews.length) {
-        Reviews.insertMany({
+        await Reviews.insertMany({
           user: user,
           sightId: sightId,
           rate: +rate,
-        }).then(() => {
-          rateCounter(sightId);
+        }).then(async () => {
+          await rateCounter(sightId);
         });
       } else {
-        Reviews.findOneAndUpdate(
+        await Reviews.findOneAndUpdate(
           filter,
           {
             rate: +rate,
           },
           {},
           () => {},
-        ).then(() => {
-          rateCounter(sightId);
+        ).then(async () => {
+          await rateCounter(sightId);
         });
       }
       res.status(200);
@@ -83,8 +83,8 @@ reviewsRouter.post(
           sightId: sightId,
           rate: +rate,
           review: review,
-        }).then(() => {
-          rateCounter(sightId);
+        }).then(async () => {
+          await rateCounter(sightId);
         });
       } else {
         await Reviews.findOneAndUpdate(
@@ -95,8 +95,8 @@ reviewsRouter.post(
           },
           {},
           () => {},
-        ).then(() => {
-          rateCounter(sightId);
+        ).then(async () => {
+          await rateCounter(sightId);
         });
       }
       res.status(200);

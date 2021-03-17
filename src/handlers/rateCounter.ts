@@ -1,8 +1,8 @@
 import { IReview, Reviews } from '../models/reviews';
 import { Sights } from '../models/sights';
 
-function rateCounter(sightId: string) {
-  Reviews.find({ sightId: sightId })
+async function rateCounter(sightId: string) {
+  await Reviews.find({ sightId: sightId })
     .then((reviews: Array<IReview>) => {
       if (reviews.length) {
         const totalRate = reviews.map(review => review.rate).reduce((a, b) => a + b);
@@ -11,8 +11,8 @@ function rateCounter(sightId: string) {
         return 0;
       }
     })
-    .then(newRate => {
-      Sights.findOneAndUpdate({ _id: sightId }, { rate: newRate }, {}, () => {});
+    .then(async newRate => {
+      await Sights.findOneAndUpdate({ _id: sightId }, { rate: newRate }, {}, () => {});
     });
 }
 
